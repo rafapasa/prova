@@ -1,0 +1,3422 @@
+[
+  {
+    "data": "09/11/2026",
+    "turno": "Matutino",
+    "municipio": "IRACEMINHA",
+    "escola": "NUCLEO ESC PROFª MARIA OLINDA HERMANN",
+    "turma": "2º ANO A INTEGRAL MAT",
+    "aplicador": "OLISE",
+    "supervisor": "RAFAEL"
+  },
+  {
+    "data": "09/11/2026",
+    "turno": "Matutino",
+    "municipio": "IRACEMINHA",
+    "escola": "NUCLEO ESC PROFª MARIA OLINDA HERMANN",
+    "turma": "2º ANO B INTEGRAL MAT",
+    "aplicador": "NEIVA",
+    "supervisor": "RAFAEL"
+  },
+  {
+    "data": "09/11/2026",
+    "turno": "Matutino",
+    "municipio": "IRACEMINHA",
+    "escola": "NUCLEO ESC PROFª MARIA OLINDA HERMANN",
+    "turma": "4º ANO A INTEGRAL MAT",
+    "aplicador": "MARILETE",
+    "supervisor": "RAFAEL"
+  },
+  {
+    "data": "09/11/2026",
+    "turno": "Vespertino",
+    "municipio": "IRACEMINHA",
+    "escola": "NUCLEO ESC PROFª MARIA OLINDA HERMANN",
+    "turma": "2º ANO VESPERTINO",
+    "aplicador": "OLISE",
+    "supervisor": "RAFAEL"
+  },
+  {
+    "data": "09/11/2026",
+    "turno": "Matutino",
+    "municipio": "MARAVILHA",
+    "escola": "EEB NS DA SALETE",
+    "turma": "5268-1-2-1 MAT",
+    "aplicador": "NELCI",
+    "supervisor": "FABIANE"
+  },
+  {
+    "data": "09/11/2026",
+    "turno": "Matutino",
+    "municipio": "MARAVILHA",
+    "escola": "EEB NS DA SALETE",
+    "turma": "5269-1-8-1 MAT",
+    "aplicador": "ADANIR",
+    "supervisor": "FABIANE"
+  },
+  {
+    "data": "09/11/2026",
+    "turno": "Matutino",
+    "municipio": "MARAVILHA",
+    "escola": "EEB NS DA SALETE",
+    "turma": "5269-1-8-2 MAT",
+    "aplicador": "KARINE MENEZES",
+    "supervisor": "FABIANE"
+  },
+  {
+    "data": "09/11/2026",
+    "turno": "Matutino",
+    "municipio": "MARAVILHA",
+    "escola": "EEB NS DA SALETE",
+    "turma": "5773-4-2-201 MAT",
+    "aplicador": "LORENI",
+    "supervisor": "FABIANE"
+  },
+  {
+    "data": "09/11/2026",
+    "turno": "Noturno",
+    "municipio": "MARAVILHA",
+    "escola": "EEB NS DA SALETE",
+    "turma": "5775-3-2-206 NOT",
+    "aplicador": "LILIAN",
+    "supervisor": "FABIANE"
+  },
+  {
+    "data": "09/11/2026",
+    "turno": "Noturno",
+    "municipio": "MARAVILHA",
+    "escola": "EEB NS DA SALETE",
+    "turma": "5775-3-2-207 NOT",
+    "aplicador": "ZELIR",
+    "supervisor": "FABIANE"
+  },
+  {
+    "data": "09/11/2026",
+    "turno": "Vespertino",
+    "municipio": "MARAVILHA",
+    "escola": "EEB NS DA SALETE",
+    "turma": "5268-2-2-2 VESP",
+    "aplicador": "NELCI",
+    "supervisor": "FABIANE"
+  },
+  {
+    "data": "09/11/2026",
+    "turno": "Vespertino",
+    "municipio": "MARAVILHA",
+    "escola": "EEB NS DA SALETE",
+    "turma": "5268-2-2-3 VESP",
+    "aplicador": "LORENI",
+    "supervisor": "FABIANE"
+  },
+  {
+    "data": "09/11/2026",
+    "turno": "Vespertino",
+    "municipio": "MARAVILHA",
+    "escola": "EEB NS DA SALETE",
+    "turma": "5268-2-4-2 VESP",
+    "aplicador": "ZELIR",
+    "supervisor": "FABIANE"
+  },
+  {
+    "data": "09/11/2026",
+    "turno": "Vespertino",
+    "municipio": "MARAVILHA",
+    "escola": "EEB NS DA SALETE",
+    "turma": "5269-2-8-3 VESP",
+    "aplicador": "ADANIR (EXTRA: LILIAN)",
+    "supervisor": "FABIANE"
+  },
+  {
+    "data": "09/11/2026",
+    "turno": "Matutino",
+    "municipio": "MARAVILHA",
+    "escola": "EEB SANTA TEREZINHA",
+    "turma": "5268-1-2-21 MAT",
+    "aplicador": "LUCILENE LAGO",
+    "supervisor": "TAINARA"
+  },
+  {
+    "data": "09/11/2026",
+    "turno": "Matutino",
+    "municipio": "MARAVILHA",
+    "escola": "EEB SANTA TEREZINHA",
+    "turma": "5268-1-4-41 MAT",
+    "aplicador": "SANDRA KONZEN",
+    "supervisor": "TAINARA"
+  },
+  {
+    "data": "09/11/2026",
+    "turno": "Matutino",
+    "municipio": "MARAVILHA",
+    "escola": "EEB SANTA TEREZINHA",
+    "turma": "5269-1-8-81 MAT",
+    "aplicador": "JACINTA",
+    "supervisor": "TAINARA"
+  },
+  {
+    "data": "09/11/2026",
+    "turno": "Vespertino",
+    "municipio": "MARAVILHA",
+    "escola": "EEB SANTA TEREZINHA",
+    "turma": "5268-2-2-22 VESP",
+    "aplicador": "LUCILENE LAGO",
+    "supervisor": "TAINARA"
+  },
+  {
+    "data": "09/11/2026",
+    "turno": "Vespertino",
+    "municipio": "MARAVILHA",
+    "escola": "EEB SANTA TEREZINHA",
+    "turma": "5268-2-4-42 VESP",
+    "aplicador": "SANDRA KONZEN",
+    "supervisor": "TAINARA"
+  },
+  {
+    "data": "09/11/2026",
+    "turno": "Vespertino",
+    "municipio": "MARAVILHA",
+    "escola": "EEB SANTA TEREZINHA",
+    "turma": "5269-2-8-82 VESP",
+    "aplicador": "JACINTA",
+    "supervisor": "TAINARA"
+  },
+  {
+    "data": "09/11/2026",
+    "turno": "Matutino",
+    "municipio": "MARAVILHA",
+    "escola": "JUSCELINO K. DE OLIVEIRA",
+    "turma": "5269-1-8-81 MAT",
+    "aplicador": "LUCIANA PASQUALOTTO",
+    "supervisor": "ALIANA"
+  },
+  {
+    "data": "09/11/2026",
+    "turno": "Matutino",
+    "municipio": "MARAVILHA",
+    "escola": "JUSCELINO K. DE OLIVEIRA",
+    "turma": "5780-4-2-21 MAT",
+    "aplicador": "CELIA",
+    "supervisor": "ALIANA"
+  },
+  {
+    "data": "09/11/2026",
+    "turno": "Vespertino",
+    "municipio": "MARAVILHA",
+    "escola": "JUSCELINO K. DE OLIVEIRA",
+    "turma": "5269-2-6-61 VESP",
+    "aplicador": "ALINE BONALDO",
+    "supervisor": "ALIANA"
+  },
+  {
+    "data": "09/11/2026",
+    "turno": "Vespertino",
+    "municipio": "MARAVILHA",
+    "escola": "JUSCELINO K. DE OLIVEIRA",
+    "turma": "5780-4-2-22 VESP",
+    "aplicador": "CELIA",
+    "supervisor": "ALIANA"
+  },
+  {
+    "data": "09/11/2026",
+    "turno": "Matutino",
+    "municipio": "MODELO- ver duas turmas a mais",
+    "escola": "ER MUN PROF GRISELDI MARIA MULLER",
+    "turma": "201 MAT",
+    "aplicador": "JANE",
+    "supervisor": "IVANETE"
+  },
+  {
+    "data": "09/11/2026",
+    "turno": "Matutino",
+    "municipio": "MODELO- ver duas turmas a mais",
+    "escola": "ER MUN PROF GRISELDI MARIA MULLER",
+    "turma": "202 MAT",
+    "aplicador": "INEZ",
+    "supervisor": "IVANETE"
+  },
+  {
+    "data": "09/11/2026",
+    "turno": "Matutino",
+    "municipio": "MODELO- ver duas turmas a mais",
+    "escola": "ER MUN PROF GRISELDI MARIA MULLER",
+    "turma": "401 MAT",
+    "aplicador": "DANIEL",
+    "supervisor": "IVANETE"
+  },
+  {
+    "data": "09/11/2026",
+    "turno": "Matutino",
+    "municipio": "MODELO- ver duas turmas a mais",
+    "escola": "ER MUN PROF GRISELDI MARIA MULLER",
+    "turma": "402 MAT",
+    "aplicador": "SIRLEIA",
+    "supervisor": "IVANETE"
+  },
+  {
+    "data": "09/11/2026",
+    "turno": "Vespertino",
+    "municipio": "MODELO- ver duas turmas a mais",
+    "escola": "ER MUN PROF GRISELDI MARIA MULLER",
+    "turma": "203 VESP",
+    "aplicador": "JANE",
+    "supervisor": "IVANETE"
+  },
+  {
+    "data": "09/11/2026",
+    "turno": "Vespertino",
+    "municipio": "MODELO- ver duas turmas a mais",
+    "escola": "ER MUN PROF GRISELDI MARIA MULLER",
+    "turma": "204 VESP",
+    "aplicador": "INEZ",
+    "supervisor": "IVANETE"
+  },
+  {
+    "data": "09/11/2026",
+    "turno": "Vespertino",
+    "municipio": "MODELO- ver duas turmas a mais",
+    "escola": "ER MUN PROF GRISELDI MARIA MULLER",
+    "turma": "403 VESP",
+    "aplicador": "DANIEL",
+    "supervisor": "IVANETE"
+  },
+  {
+    "data": "09/11/2026",
+    "turno": "Matutino",
+    "municipio": "PINHALZINHO",
+    "escola": "ESCOLA MUNICIPAL DE ENSINO FUNDAMENTAL JOSE THEOBALDO UTZIG",
+    "turma": "2º ANO 01 MATUTINO",
+    "aplicador": "ANA TASCA",
+    "supervisor": "MERI"
+  },
+  {
+    "data": "09/11/2026",
+    "turno": "Matutino",
+    "municipio": "PINHALZINHO",
+    "escola": "ESCOLA MUNICIPAL DE ENSINO FUNDAMENTAL JOSE THEOBALDO UTZIG",
+    "turma": "2º ANO 02 MATUTINO",
+    "aplicador": "CLECIR",
+    "supervisor": "MERI"
+  },
+  {
+    "data": "09/11/2026",
+    "turno": "Matutino",
+    "municipio": "PINHALZINHO",
+    "escola": "ESCOLA MUNICIPAL DE ENSINO FUNDAMENTAL JOSE THEOBALDO UTZIG",
+    "turma": "4º ANO 01 MATUTINO",
+    "aplicador": "ELIANE BARON",
+    "supervisor": "MERI"
+  },
+  {
+    "data": "09/11/2026",
+    "turno": "Matutino",
+    "municipio": "PINHALZINHO",
+    "escola": "ESCOLA MUNICIPAL DE ENSINO FUNDAMENTAL JOSE THEOBALDO UTZIG",
+    "turma": "4º ANO 03 MATUTINO",
+    "aplicador": "VANDERLEI",
+    "supervisor": "MERI"
+  },
+  {
+    "data": "09/11/2026",
+    "turno": "Matutino",
+    "municipio": "PINHALZINHO",
+    "escola": "ESCOLA MUNICIPAL DE ENSINO FUNDAMENTAL JOSE THEOBALDO UTZIG",
+    "turma": "6º ANO 02 MATUTINO",
+    "aplicador": "VERA",
+    "supervisor": "MERI"
+  },
+  {
+    "data": "09/11/2026",
+    "turno": "Matutino",
+    "municipio": "PINHALZINHO",
+    "escola": "ESCOLA MUNICIPAL DE ENSINO FUNDAMENTAL JOSE THEOBALDO UTZIG",
+    "turma": "8º ANO 01 MATUTINO",
+    "aplicador": "LAURA",
+    "supervisor": "MERI"
+  },
+  {
+    "data": "09/11/2026",
+    "turno": "Vespertino",
+    "municipio": "PINHALZINHO",
+    "escola": "ESCOLA MUNICIPAL DE ENSINO FUNDAMENTAL JOSE THEOBALDO UTZIG",
+    "turma": "2º ANO 03 VESPERTINO",
+    "aplicador": "ANA TASCA",
+    "supervisor": "MERI"
+  },
+  {
+    "data": "09/11/2026",
+    "turno": "Vespertino",
+    "municipio": "PINHALZINHO",
+    "escola": "ESCOLA MUNICIPAL DE ENSINO FUNDAMENTAL JOSE THEOBALDO UTZIG",
+    "turma": "2º ANO 04 VESPERTINO",
+    "aplicador": "CLECIR",
+    "supervisor": "MERI"
+  },
+  {
+    "data": "09/11/2026",
+    "turno": "Vespertino",
+    "municipio": "PINHALZINHO",
+    "escola": "ESCOLA MUNICIPAL DE ENSINO FUNDAMENTAL JOSE THEOBALDO UTZIG",
+    "turma": "2º ANO 05 VESPERTINO",
+    "aplicador": "ELIANE BARON",
+    "supervisor": "MERI"
+  },
+  {
+    "data": "09/11/2026",
+    "turno": "Vespertino",
+    "municipio": "PINHALZINHO",
+    "escola": "ESCOLA MUNICIPAL DE ENSINO FUNDAMENTAL JOSE THEOBALDO UTZIG",
+    "turma": "4º ANO 04 VESPERTINO",
+    "aplicador": "VANDERLEI",
+    "supervisor": "MERI"
+  },
+  {
+    "data": "09/11/2026",
+    "turno": "Vespertino",
+    "municipio": "PINHALZINHO",
+    "escola": "ESCOLA MUNICIPAL DE ENSINO FUNDAMENTAL JOSE THEOBALDO UTZIG",
+    "turma": "4º ANO 06 VESPERTINO",
+    "aplicador": "VERA",
+    "supervisor": "MERI"
+  },
+  {
+    "data": "09/11/2026",
+    "turno": "Vespertino",
+    "municipio": "PINHALZINHO",
+    "escola": "ESCOLA MUNICIPAL DE ENSINO FUNDAMENTAL JOSE THEOBALDO UTZIG",
+    "turma": "6º ANO 04 VESPERTINO",
+    "aplicador": "LAURA",
+    "supervisor": "MERI"
+  },
+  {
+    "data": "09/11/2026",
+    "turno": "Matutino",
+    "municipio": "SAUDADES",
+    "escola": "EEB CARLOS WERLANG",
+    "turma": "401 MAT",
+    "aplicador": "PAULA FELISIAK",
+    "supervisor": "TAUANA"
+  },
+  {
+    "data": "09/11/2026",
+    "turno": "Vespertino",
+    "municipio": "SAUDADES",
+    "escola": "EEB CARLOS WERLANG",
+    "turma": "201 VESP",
+    "aplicador": "LORENI MINELA",
+    "supervisor": "TAUANA"
+  },
+  {
+    "data": "09/11/2026",
+    "turno": "Vespertino",
+    "municipio": "SAUDADES",
+    "escola": "EEB CARLOS WERLANG",
+    "turma": "801 VESP",
+    "aplicador": "PAULA FELISIAK",
+    "supervisor": "TAUANA"
+  },
+  {
+    "data": "09/11/2026",
+    "turno": "Matutino",
+    "municipio": "SAUDADES",
+    "escola": "EEB JOAO BATISTA FLECK",
+    "turma": "201 MAT",
+    "aplicador": "LORENI MINELA",
+    "supervisor": "SANDRA CARVALHO"
+  },
+  {
+    "data": "09/11/2026",
+    "turno": "Matutino",
+    "municipio": "SERRA ALTA ok",
+    "escola": "CENTRO MUNICIPAL DE EDUCACAO PROFESSORA ODETE PARIZOTTO CERISOLI",
+    "turma": "201 MAT",
+    "aplicador": "ALENIR: (EXTRA:)",
+    "supervisor": "MERI"
+  },
+  {
+    "data": "09/11/2026",
+    "turno": "Matutino",
+    "municipio": "SERRA ALTA ok",
+    "escola": "CENTRO MUNICIPAL DE EDUCACAO PROFESSORA ODETE PARIZOTTO CERISOLI",
+    "turma": "401 MAT",
+    "aplicador": "SANDRA MALMANN CADASTRO",
+    "supervisor": "MERI"
+  },
+  {
+    "data": "09/11/2026",
+    "turno": "Vespertino",
+    "municipio": "SERRA ALTA ok",
+    "escola": "CENTRO MUNICIPAL DE EDUCACAO PROFESSORA ODETE PARIZOTTO CERISOLI",
+    "turma": "202 VESP",
+    "aplicador": "SALETE ZIMMERMANN",
+    "supervisor": "MERI"
+  },
+  {
+    "data": "09/11/2026",
+    "turno": "Vespertino",
+    "municipio": "SERRA ALTA ok",
+    "escola": "CENTRO MUNICIPAL DE EDUCACAO PROFESSORA ODETE PARIZOTTO CERISOLI",
+    "turma": "402 VESP",
+    "aplicador": "SANDRA MALMANN (EXTRA: FELIPE)",
+    "supervisor": "MERI"
+  },
+  {
+    "data": "09/11/2026",
+    "turno": "Matutino",
+    "municipio": "SÃO MIGUEL DA BOA VISTA ok",
+    "escola": "CENTRO EDUC MUN PROFª HERMINDA I FERRAZ",
+    "turma": "401 MAT",
+    "aplicador": "LURDES MARTINI + (EXTRA: IVETE Z.)",
+    "supervisor": "TATIANE"
+  },
+  {
+    "data": "09/11/2026",
+    "turno": "Vespertino",
+    "municipio": "SÃO MIGUEL DA BOA VISTA ok",
+    "escola": "CENTRO EDUC MUN PROFª HERMINDA I FERRAZ",
+    "turma": "201 VESP",
+    "aplicador": "LURDES MARTINI",
+    "supervisor": "TATIANE"
+  },
+  {
+    "data": "10/11/2026",
+    "turno": "Matutino",
+    "municipio": "IRACEMINHA",
+    "escola": "EEF LINHA BIGUA",
+    "turma": "5269-1-8-1 MAT",
+    "aplicador": "OLISE",
+    "supervisor": "RAFAEL"
+  },
+  {
+    "data": "10/11/2026",
+    "turno": "Vespertino",
+    "municipio": "IRACEMINHA",
+    "escola": "EEF LINHA BIGUA",
+    "turma": "5268-2-M-2 VESP",
+    "aplicador": "MARCIA GRAEFF",
+    "supervisor": "RAFAEL"
+  },
+  {
+    "data": "10/11/2026",
+    "turno": "Vespertino",
+    "municipio": "IRACEMINHA",
+    "escola": "EEF LINHA BIGUA",
+    "turma": "5269-2-6-1 VESP",
+    "aplicador": "OLISE",
+    "supervisor": "RAFAEL"
+  },
+  {
+    "data": "10/11/2026",
+    "turno": "Matutino",
+    "municipio": "MARAVILHA",
+    "escola": "EEB NS DA SALETE",
+    "turma": "5268-1-2-1 MAT",
+    "aplicador": "NELCI",
+    "supervisor": "TAINARA"
+  },
+  {
+    "data": "10/11/2026",
+    "turno": "Matutino",
+    "municipio": "MARAVILHA",
+    "escola": "EEB NS DA SALETE",
+    "turma": "5268-1-4-1 MAT",
+    "aplicador": "SIRLEIA + (EXTRA: SANDRA MALMANN)",
+    "supervisor": "TAINARA"
+  },
+  {
+    "data": "10/11/2026",
+    "turno": "Matutino",
+    "municipio": "MARAVILHA",
+    "escola": "EEB NS DA SALETE",
+    "turma": "5269-1-6-1 MAT",
+    "aplicador": "JONATHAN + (EXTRA: ADANIR)",
+    "supervisor": "TAINARA"
+  },
+  {
+    "data": "10/11/2026",
+    "turno": "Matutino",
+    "municipio": "MARAVILHA",
+    "escola": "EEB NS DA SALETE",
+    "turma": "5773-4-2-202 MAT",
+    "aplicador": "LORENI",
+    "supervisor": "TAINARA"
+  },
+  {
+    "data": "10/11/2026",
+    "turno": "Matutino",
+    "municipio": "MARAVILHA",
+    "escola": "EEB NS DA SALETE",
+    "turma": "5773-4-2-203 MAT",
+    "aplicador": "KARINE  MENEZES",
+    "supervisor": "TAINARA"
+  },
+  {
+    "data": "10/11/2026",
+    "turno": "Matutino",
+    "municipio": "MARAVILHA",
+    "escola": "EEB NS DA SALETE",
+    "turma": "5773-4-2-204 MAT",
+    "aplicador": "ALINE BONALDO",
+    "supervisor": "TAINARA"
+  },
+  {
+    "data": "10/11/2026",
+    "turno": "Vespertino",
+    "municipio": "MARAVILHA",
+    "escola": "EEB NS DA SALETE",
+    "turma": "5268-2-2-2 VESP",
+    "aplicador": "NELCI",
+    "supervisor": "TAINARA"
+  },
+  {
+    "data": "10/11/2026",
+    "turno": "Vespertino",
+    "municipio": "MARAVILHA",
+    "escola": "EEB NS DA SALETE",
+    "turma": "5268-2-2-3 VESP",
+    "aplicador": "LORENI",
+    "supervisor": "TAINARA"
+  },
+  {
+    "data": "10/11/2026",
+    "turno": "Vespertino",
+    "municipio": "MARAVILHA",
+    "escola": "EEB NS DA SALETE",
+    "turma": "5269-2-6-2 VESP",
+    "aplicador": "JONATHAN",
+    "supervisor": "TAINARA"
+  },
+  {
+    "data": "10/11/2026",
+    "turno": "Vespertino",
+    "municipio": "MARAVILHA",
+    "escola": "EEB NS DA SALETE",
+    "turma": "5269-2-6-3 VESP",
+    "aplicador": "ADANIR",
+    "supervisor": "TAINARA"
+  },
+  {
+    "data": "10/11/2026",
+    "turno": "Vespertino",
+    "municipio": "MARAVILHA",
+    "escola": "EEB NS DA SALETE",
+    "turma": "5773-4-2-205 VESP",
+    "aplicador": "SANDRA MALMANN (EXTRA:DULCE)",
+    "supervisor": "TAINARA"
+  },
+  {
+    "data": "10/11/2026",
+    "turno": "Matutino",
+    "municipio": "MARAVILHA",
+    "escola": "JUSCELINO K. DE OLIVEIRA",
+    "turma": "5780-4-2-21 MAT",
+    "aplicador": "CELIA",
+    "supervisor": "ALIANA"
+  },
+  {
+    "data": "10/11/2026",
+    "turno": "Matutino",
+    "municipio": "MARAVILHA",
+    "escola": "JUSCELINO K. DE OLIVEIRA",
+    "turma": "5780-4-4-41 MAT",
+    "aplicador": "LUCIANA PASQUALOTTO",
+    "supervisor": "ALIANA"
+  },
+  {
+    "data": "10/11/2026",
+    "turno": "Vespertino",
+    "municipio": "MARAVILHA",
+    "escola": "JUSCELINO K. DE OLIVEIRA",
+    "turma": "5780-4-2-22 VESP",
+    "aplicador": "CELIA",
+    "supervisor": "ALIANA"
+  },
+  {
+    "data": "10/11/2026",
+    "turno": "Vespertino",
+    "municipio": "MARAVILHA",
+    "escola": "JUSCELINO K. DE OLIVEIRA",
+    "turma": "5780-4-4-42 VESP",
+    "aplicador": "LUCIANA PASQUALOTTO",
+    "supervisor": "ALIANA"
+  },
+  {
+    "data": "10/11/2026",
+    "turno": "Matutino",
+    "municipio": "MODELO- ver duas turmas a mais",
+    "escola": "ER MUN PROF GRISELDI MARIA MULLER",
+    "turma": "201 MAT",
+    "aplicador": "JANE",
+    "supervisor": "IVANETE"
+  },
+  {
+    "data": "10/11/2026",
+    "turno": "Matutino",
+    "municipio": "MODELO- ver duas turmas a mais",
+    "escola": "ER MUN PROF GRISELDI MARIA MULLER",
+    "turma": "202 MAT",
+    "aplicador": "INEZ",
+    "supervisor": "IVANETE"
+  },
+  {
+    "data": "10/11/2026",
+    "turno": "Vespertino",
+    "municipio": "MODELO- ver duas turmas a mais",
+    "escola": "ER MUN PROF GRISELDI MARIA MULLER",
+    "turma": "203 VESP",
+    "aplicador": "JANE",
+    "supervisor": "IVANETE"
+  },
+  {
+    "data": "10/11/2026",
+    "turno": "Vespertino",
+    "municipio": "MODELO- ver duas turmas a mais",
+    "escola": "ER MUN PROF GRISELDI MARIA MULLER",
+    "turma": "204 VESP",
+    "aplicador": "INEZ",
+    "supervisor": "IVANETE"
+  },
+  {
+    "data": "10/11/2026",
+    "turno": "Integral",
+    "municipio": "SALTINHO",
+    "escola": "EEB SAO DONATO",
+    "turma": "801 INTEGRAL",
+    "aplicador": "DANIEL",
+    "supervisor": "FABIANE"
+  },
+  {
+    "data": "10/11/2026",
+    "turno": "Vespertino",
+    "municipio": "SALTINHO",
+    "escola": "EEB SAO DONATO",
+    "turma": "601 VESP",
+    "aplicador": "DANIEL",
+    "supervisor": "FABIANE"
+  },
+  {
+    "data": "10/11/2026",
+    "turno": "Vespertino",
+    "municipio": "SAUDADES",
+    "escola": "EEB CARLOS WERLANG",
+    "turma": "201 VESP",
+    "aplicador": "LORENI MINELA",
+    "supervisor": "TAUANA"
+  },
+  {
+    "data": "10/11/2026",
+    "turno": "Matutino",
+    "municipio": "SAUDADES",
+    "escola": "EEB JOAO BATISTA FLECK",
+    "turma": "201 MAT",
+    "aplicador": "LORENI MINELA",
+    "supervisor": "SANDRA CARVALHO"
+  },
+  {
+    "data": "10/11/2026",
+    "turno": "Matutino",
+    "municipio": "SAUDADES",
+    "escola": "EEB JOAO BATISTA FLECK",
+    "turma": "401 MAT",
+    "aplicador": "IVANE",
+    "supervisor": "SANDRA CARVALHO"
+  },
+  {
+    "data": "10/11/2026",
+    "turno": "Matutino",
+    "municipio": "SAUDADES",
+    "escola": "EEB JOAO BATISTA FLECK",
+    "turma": "801 MAT",
+    "aplicador": "LIZETE",
+    "supervisor": "SANDRA CARVALHO"
+  },
+  {
+    "data": "10/11/2026",
+    "turno": "Vespertino",
+    "municipio": "SAUDADES",
+    "escola": "EEB JOAO BATISTA FLECK",
+    "turma": "601 VESP",
+    "aplicador": "LIZETE (EXTRA: IVANE )",
+    "supervisor": "SANDRA CARVALHO"
+  },
+  {
+    "data": "10/11/2026",
+    "turno": "Matutino",
+    "municipio": "SERRA ALTA ok",
+    "escola": "CENTRO MUNICIPAL DE EDUCACAO PROFESSORA ODETE PARIZOTTO CERISOLI",
+    "turma": "201 MAT",
+    "aplicador": "ALENIR: (EXTRA:)",
+    "supervisor": "SANDRA"
+  },
+  {
+    "data": "10/11/2026",
+    "turno": "Vespertino",
+    "municipio": "SERRA ALTA ok",
+    "escola": "CENTRO MUNICIPAL DE EDUCACAO PROFESSORA ODETE PARIZOTTO CERISOLI",
+    "turma": "202 VESP",
+    "aplicador": "SALETE ZIMMERMANN",
+    "supervisor": "SANDRA"
+  },
+  {
+    "data": "10/11/2026",
+    "turno": "Matutino",
+    "municipio": "SÃO MIGUEL DA BOA VISTA",
+    "escola": "EEB OSCAR MAJOLO",
+    "turma": "801 MAT",
+    "aplicador": "LURDES MARTINI + (EXTRA: DULCE)",
+    "supervisor": "TAUANA"
+  },
+  {
+    "data": "10/11/2026",
+    "turno": "Noturno",
+    "municipio": "SÃO MIGUEL DA BOA VISTA",
+    "escola": "EEB OSCAR MAJOLO",
+    "turma": "202 NOT",
+    "aplicador": "LURDES MARTINI",
+    "supervisor": "TAUANA"
+  },
+  {
+    "data": "10/11/2026",
+    "turno": "Vespertino",
+    "municipio": "SÃO MIGUEL DA BOA VISTA",
+    "escola": "EEB OSCAR MAJOLO",
+    "turma": "201 VESP",
+    "aplicador": "LURDES MARTINI (EXTRA: DANIELI G.)",
+    "supervisor": "TAUANA"
+  },
+  {
+    "data": "10/11/2026",
+    "turno": "Vespertino",
+    "municipio": "SÃO MIGUEL DA BOA VISTA",
+    "escola": "EEB OSCAR MAJOLO",
+    "turma": "601 VESP",
+    "aplicador": "MARILETE + (EXTRA: NEIVA)",
+    "supervisor": "TAUANA"
+  },
+  {
+    "data": "10/11/2026",
+    "turno": "Matutino",
+    "municipio": "TIGRINHOS",
+    "escola": "EEB OSVALDO FERREIRA DE MELLO",
+    "turma": "601 MAT",
+    "aplicador": "JACINTA",
+    "supervisor": "SANDRA CARVALHO"
+  },
+  {
+    "data": "10/11/2026",
+    "turno": "Matutino",
+    "municipio": "TIGRINHOS",
+    "escola": "EEB OSVALDO FERREIRA DE MELLO",
+    "turma": "801 MAT",
+    "aplicador": "PAULA FELISIAK",
+    "supervisor": "SANDRA CARVALHO"
+  },
+  {
+    "data": "10/11/2026",
+    "turno": "Noturno",
+    "municipio": "TIGRINHOS",
+    "escola": "EEB OSVALDO FERREIRA DE MELLO",
+    "turma": "202 EM NOT",
+    "aplicador": "PAULA FELISIAK",
+    "supervisor": "SANDRA CARVALHO"
+  },
+  {
+    "data": "10/11/2026",
+    "turno": "Vespertino",
+    "municipio": "TIGRINHOS",
+    "escola": "EEB OSVALDO FERREIRA DE MELLO",
+    "turma": "201 EM VESP",
+    "aplicador": "PAULA FELISIAK",
+    "supervisor": "SANDRA CARVALHO"
+  },
+  {
+    "data": "10/11/2026",
+    "turno": "Vespertino",
+    "municipio": "TIGRINHOS",
+    "escola": "EEB OSVALDO FERREIRA DE MELLO",
+    "turma": "602 VESP",
+    "aplicador": "JACINTA",
+    "supervisor": "SANDRA CARVALHO"
+  },
+  {
+    "data": "11/11/2026",
+    "turno": "Matutino",
+    "municipio": "BOM JESUS DO OESTE",
+    "escola": "EEB PROF SILVIO ROMERO",
+    "turma": "5269-1-8-81 MAT",
+    "aplicador": "OLISE",
+    "supervisor": "RAFAEL"
+  },
+  {
+    "data": "11/11/2026",
+    "turno": "Matutino",
+    "municipio": "BOM JESUS DO OESTE",
+    "escola": "EEB PROF SILVIO ROMERO",
+    "turma": "5773-4-2-201 MAT",
+    "aplicador": "ANDRIELI",
+    "supervisor": "RAFAEL"
+  },
+  {
+    "data": "11/11/2026",
+    "turno": "Noturno",
+    "municipio": "BOM JESUS DO OESTE",
+    "escola": "EEB PROF SILVIO ROMERO",
+    "turma": "5775-3-2-1 NOT",
+    "aplicador": "OLISE",
+    "supervisor": "RAFAEL"
+  },
+  {
+    "data": "11/11/2026",
+    "turno": "Vespertino",
+    "municipio": "BOM JESUS DO OESTE",
+    "escola": "EEB PROF SILVIO ROMERO",
+    "turma": "5269-2-6-61 VESP",
+    "aplicador": "OLISE",
+    "supervisor": "RAFAEL"
+  },
+  {
+    "data": "11/11/2026",
+    "turno": "Matutino",
+    "municipio": "MARAVILHA",
+    "escola": "EEB JOAO XXIII",
+    "turma": "5268-1-2-1 MAT",
+    "aplicador": "LUCIANA PASQUALOTTO",
+    "supervisor": "ALIANA"
+  },
+  {
+    "data": "11/11/2026",
+    "turno": "Matutino",
+    "municipio": "MARAVILHA",
+    "escola": "EEB JOAO XXIII",
+    "turma": "5268-1-4-1 MAT",
+    "aplicador": "NELCI",
+    "supervisor": "ALIANA"
+  },
+  {
+    "data": "11/11/2026",
+    "turno": "Matutino",
+    "municipio": "MARAVILHA",
+    "escola": "EEB JOAO XXIII",
+    "turma": "5269-1-6-62 MAT",
+    "aplicador": "SANDRA MALMANN",
+    "supervisor": "ALIANA"
+  },
+  {
+    "data": "11/11/2026",
+    "turno": "Matutino",
+    "municipio": "MARAVILHA",
+    "escola": "EEB JOAO XXIII",
+    "turma": "5269-1-8-82 MAT",
+    "aplicador": "ADANIR",
+    "supervisor": "ALIANA"
+  },
+  {
+    "data": "11/11/2026",
+    "turno": "Matutino",
+    "municipio": "MARAVILHA",
+    "escola": "EEB JOAO XXIII",
+    "turma": "5773-4-2-21 MAT",
+    "aplicador": "CÉLIA",
+    "supervisor": "ALIANA"
+  },
+  {
+    "data": "11/11/2026",
+    "turno": "Vespertino",
+    "municipio": "MARAVILHA",
+    "escola": "EEB JOAO XXIII",
+    "turma": "5268-2-2-2 VESP",
+    "aplicador": "LUCIANA PASQUALOTTO",
+    "supervisor": "ALIANA"
+  },
+  {
+    "data": "11/11/2026",
+    "turno": "Vespertino",
+    "municipio": "MARAVILHA",
+    "escola": "EEB JOAO XXIII",
+    "turma": "5268-2-2-3 VESP",
+    "aplicador": "NELCI",
+    "supervisor": "ALIANA"
+  },
+  {
+    "data": "11/11/2026",
+    "turno": "Vespertino",
+    "municipio": "MARAVILHA",
+    "escola": "EEB JOAO XXIII",
+    "turma": "5268-2-4-2 VESP",
+    "aplicador": "ADANIR",
+    "supervisor": "ALIANA"
+  },
+  {
+    "data": "11/11/2026",
+    "turno": "Vespertino",
+    "municipio": "MARAVILHA",
+    "escola": "EEB JOAO XXIII",
+    "turma": "5269-2-6-63 VESP",
+    "aplicador": "SANDRA MALMANN",
+    "supervisor": "ALIANA"
+  },
+  {
+    "data": "11/11/2026",
+    "turno": "Vespertino",
+    "municipio": "MARAVILHA",
+    "escola": "EEB JOAO XXIII",
+    "turma": "5269-2-8-83 VESP",
+    "aplicador": "CELIA (EXTRA: JAQUELINE)",
+    "supervisor": "ALIANA"
+  },
+  {
+    "data": "11/11/2026",
+    "turno": "Vespertino",
+    "municipio": "MARAVILHA",
+    "escola": "EEB JOAO XXIII",
+    "turma": "5269-2-8-84 VESP",
+    "aplicador": "JACINTA",
+    "supervisor": "ALIANA"
+  },
+  {
+    "data": "11/11/2026",
+    "turno": "Matutino",
+    "municipio": "MARAVILHA",
+    "escola": "EEB SANTA TEREZINHA",
+    "turma": "5268-1-2-21 MAT",
+    "aplicador": "LUCILENE LAGO",
+    "supervisor": "IVAIR"
+  },
+  {
+    "data": "11/11/2026",
+    "turno": "Matutino",
+    "municipio": "MARAVILHA",
+    "escola": "EEB SANTA TEREZINHA",
+    "turma": "5269-1-6-61 MAT",
+    "aplicador": "LIDIA RIGO",
+    "supervisor": "IVAIR"
+  },
+  {
+    "data": "11/11/2026",
+    "turno": "Matutino",
+    "municipio": "MARAVILHA",
+    "escola": "EEB SANTA TEREZINHA",
+    "turma": "5773-4-2-201 MAT",
+    "aplicador": "JACINTA",
+    "supervisor": "IVAIR"
+  },
+  {
+    "data": "11/11/2026",
+    "turno": "Vespertino",
+    "municipio": "MARAVILHA",
+    "escola": "EEB SANTA TEREZINHA",
+    "turma": "5268-2-2-22 VESP",
+    "aplicador": "LUCILENE LAGO",
+    "supervisor": "TAINARA"
+  },
+  {
+    "data": "11/11/2026",
+    "turno": "Vespertino",
+    "municipio": "MARAVILHA",
+    "escola": "EEB SANTA TEREZINHA",
+    "turma": "5269-2-6-62 VESP",
+    "aplicador": "DANIELI GHENO",
+    "supervisor": "TAINARA"
+  },
+  {
+    "data": "11/11/2026",
+    "turno": "Matutino",
+    "municipio": "MODELO",
+    "escola": "EEB DOM HELDER CAMARA",
+    "turma": "61 MAT",
+    "aplicador": "JANE + (EXTRA: DANIEL)",
+    "supervisor": "FABIANE"
+  },
+  {
+    "data": "11/11/2026",
+    "turno": "Matutino",
+    "municipio": "MODELO",
+    "escola": "EEB DOM HELDER CAMARA",
+    "turma": "81 MAT",
+    "aplicador": "INEZ",
+    "supervisor": "FABIANE"
+  },
+  {
+    "data": "11/11/2026",
+    "turno": "Noturno",
+    "municipio": "MODELO",
+    "escola": "EEB DOM HELDER CAMARA",
+    "turma": "21 NOT",
+    "aplicador": "JANE",
+    "supervisor": "FABIANE"
+  },
+  {
+    "data": "11/11/2026",
+    "turno": "Noturno",
+    "municipio": "MODELO",
+    "escola": "EEB DOM HELDER CAMARA",
+    "turma": "22 NOT",
+    "aplicador": "INEZ",
+    "supervisor": "FABIANE"
+  },
+  {
+    "data": "11/11/2026",
+    "turno": "Vespertino",
+    "municipio": "MODELO",
+    "escola": "EEB DOM HELDER CAMARA",
+    "turma": "62 VESP",
+    "aplicador": "JANE",
+    "supervisor": "FABIANE"
+  },
+  {
+    "data": "11/11/2026",
+    "turno": "Vespertino",
+    "municipio": "MODELO",
+    "escola": "EEB DOM HELDER CAMARA",
+    "turma": "82 VESP",
+    "aplicador": "INEZ + (EXTRA: DANIEL)",
+    "supervisor": "FABIANE"
+  },
+  {
+    "data": "11/11/2026",
+    "turno": "Matutino",
+    "municipio": "PINHALZINHO",
+    "escola": "ESCOLA MUNICIPAL DE ENSINO FUNDAMENTAL JOSE THEOBALDO UTZIG",
+    "turma": "2º ANO 01 MATUTINO",
+    "aplicador": "ANA TASCA",
+    "supervisor": "MERI"
+  },
+  {
+    "data": "11/11/2026",
+    "turno": "Matutino",
+    "municipio": "PINHALZINHO",
+    "escola": "ESCOLA MUNICIPAL DE ENSINO FUNDAMENTAL JOSE THEOBALDO UTZIG",
+    "turma": "2º ANO 02 MATUTINO",
+    "aplicador": "CLECIR",
+    "supervisor": "MERI"
+  },
+  {
+    "data": "11/11/2026",
+    "turno": "Matutino",
+    "municipio": "PINHALZINHO",
+    "escola": "ESCOLA MUNICIPAL DE ENSINO FUNDAMENTAL JOSE THEOBALDO UTZIG",
+    "turma": "4º ANO 02 MATUTINO",
+    "aplicador": "ELIANE BARON",
+    "supervisor": "MERI"
+  },
+  {
+    "data": "11/11/2026",
+    "turno": "Matutino",
+    "municipio": "PINHALZINHO",
+    "escola": "ESCOLA MUNICIPAL DE ENSINO FUNDAMENTAL JOSE THEOBALDO UTZIG",
+    "turma": "6º ANO 01 MATUTINO",
+    "aplicador": "VANDERLEI (EXTRA: VERA)",
+    "supervisor": "MERI"
+  },
+  {
+    "data": "11/11/2026",
+    "turno": "Matutino",
+    "municipio": "PINHALZINHO",
+    "escola": "ESCOLA MUNICIPAL DE ENSINO FUNDAMENTAL JOSE THEOBALDO UTZIG",
+    "turma": "8º ANO 02 MATUTINO",
+    "aplicador": "LAURA",
+    "supervisor": "MERI"
+  },
+  {
+    "data": "11/11/2026",
+    "turno": "Vespertino",
+    "municipio": "PINHALZINHO",
+    "escola": "ESCOLA MUNICIPAL DE ENSINO FUNDAMENTAL JOSE THEOBALDO UTZIG",
+    "turma": "2º ANO 03 VESPERTINO",
+    "aplicador": "ANA TASCA",
+    "supervisor": "MERI"
+  },
+  {
+    "data": "11/11/2026",
+    "turno": "Vespertino",
+    "municipio": "PINHALZINHO",
+    "escola": "ESCOLA MUNICIPAL DE ENSINO FUNDAMENTAL JOSE THEOBALDO UTZIG",
+    "turma": "2º ANO 04 VESPERTINO",
+    "aplicador": "CLECIR",
+    "supervisor": "MERI"
+  },
+  {
+    "data": "11/11/2026",
+    "turno": "Vespertino",
+    "municipio": "PINHALZINHO",
+    "escola": "ESCOLA MUNICIPAL DE ENSINO FUNDAMENTAL JOSE THEOBALDO UTZIG",
+    "turma": "2º ANO 05 VESPERTINO",
+    "aplicador": "ELIANE BARON",
+    "supervisor": "MERI"
+  },
+  {
+    "data": "11/11/2026",
+    "turno": "Vespertino",
+    "municipio": "PINHALZINHO",
+    "escola": "ESCOLA MUNICIPAL DE ENSINO FUNDAMENTAL JOSE THEOBALDO UTZIG",
+    "turma": "4º ANO 05 VESPERTINO",
+    "aplicador": "VANDERLEI",
+    "supervisor": "MERI"
+  },
+  {
+    "data": "11/11/2026",
+    "turno": "Vespertino",
+    "municipio": "PINHALZINHO",
+    "escola": "ESCOLA MUNICIPAL DE ENSINO FUNDAMENTAL JOSE THEOBALDO UTZIG",
+    "turma": "6º ANO 03 VESPERTINO",
+    "aplicador": "VERA",
+    "supervisor": "MERI"
+  },
+  {
+    "data": "11/11/2026",
+    "turno": "Vespertino",
+    "municipio": "PINHALZINHO",
+    "escola": "ESCOLA MUNICIPAL DE ENSINO FUNDAMENTAL JOSE THEOBALDO UTZIG",
+    "turma": "8º ANO 03 VESPERTINO",
+    "aplicador": "LAURA",
+    "supervisor": "MERI"
+  },
+  {
+    "data": "11/11/2026",
+    "turno": "Vespertino",
+    "municipio": "PINHALZINHO",
+    "escola": "ESCOLA MUNICIPAL DE ENSINO FUNDAMENTAL JOSE THEOBALDO UTZIG",
+    "turma": "8º ANO 04 VESPERTINO",
+    "aplicador": "NILCE",
+    "supervisor": "MERI"
+  },
+  {
+    "data": "11/11/2026",
+    "turno": "Matutino",
+    "municipio": "ROMELÂNDIA",
+    "escola": "EEF ANITA GARIBALDI",
+    "turma": "401 MAT",
+    "aplicador": "IVETE",
+    "supervisor": "TAUANA"
+  },
+  {
+    "data": "11/11/2026",
+    "turno": "Matutino",
+    "municipio": "ROMELÂNDIA",
+    "escola": "EEF ANITA GARIBALDI",
+    "turma": "601 MAT",
+    "aplicador": "NEIVA",
+    "supervisor": "TAUANA"
+  },
+  {
+    "data": "11/11/2026",
+    "turno": "Vespertino",
+    "municipio": "ROMELÂNDIA",
+    "escola": "EEF ANITA GARIBALDI",
+    "turma": "201 VESP",
+    "aplicador": "IVETE",
+    "supervisor": "TAUANA"
+  },
+  {
+    "data": "11/11/2026",
+    "turno": "Vespertino",
+    "municipio": "ROMELÂNDIA",
+    "escola": "EEF ANITA GARIBALDI",
+    "turma": "801 VESP",
+    "aplicador": "NEIVA",
+    "supervisor": "TAUANA"
+  },
+  {
+    "data": "11/11/2026",
+    "turno": "Vespertino",
+    "municipio": "SÃO MIGUEL DA BOA VISTA ok",
+    "escola": "CENTRO EDUC MUN PROFª HERMINDA I FERRAZ",
+    "turma": "201 VESP",
+    "aplicador": "LURDES MARTINI",
+    "supervisor": "TATIANE"
+  },
+  {
+    "data": "12/11/2026",
+    "turno": "Matutino",
+    "municipio": "IRACEMINHA",
+    "escola": "NUCLEO ESC PROFª MARIA OLINDA HERMANN",
+    "turma": "2º ANO A INTEGRAL MAT",
+    "aplicador": "OLISE",
+    "supervisor": "RAFAEL"
+  },
+  {
+    "data": "12/11/2026",
+    "turno": "Matutino",
+    "municipio": "IRACEMINHA",
+    "escola": "NUCLEO ESC PROFª MARIA OLINDA HERMANN",
+    "turma": "2º ANO B INTEGRAL MAT",
+    "aplicador": "NEIVA",
+    "supervisor": "RAFAEL"
+  },
+  {
+    "data": "12/11/2026",
+    "turno": "Matutino",
+    "municipio": "IRACEMINHA",
+    "escola": "NUCLEO ESC PROFª MARIA OLINDA HERMANN",
+    "turma": "4º ANO B INTEGRAL MAT",
+    "aplicador": "MARILETE",
+    "supervisor": "RAFAEL"
+  },
+  {
+    "data": "12/11/2026",
+    "turno": "Matutino",
+    "municipio": "IRACEMINHA",
+    "escola": "NUCLEO ESC PROFª MARIA OLINDA HERMANN",
+    "turma": "4º ANO MATUTINO",
+    "aplicador": "IVETE ZANROSSO",
+    "supervisor": "RAFAEL"
+  },
+  {
+    "data": "12/11/2026",
+    "turno": "Vespertino",
+    "municipio": "IRACEMINHA",
+    "escola": "NUCLEO ESC PROFª MARIA OLINDA HERMANN",
+    "turma": "2º ANO VESPERTINO",
+    "aplicador": "OLISE",
+    "supervisor": "RAFAEL"
+  },
+  {
+    "data": "12/11/2026",
+    "turno": "Matutino",
+    "municipio": "MARAVILHA",
+    "escola": "EEB JOAO XXIII",
+    "turma": "5268-1-2-1 MAT",
+    "aplicador": "LUCIANA PASQUALOTTO",
+    "supervisor": "ALIANA"
+  },
+  {
+    "data": "12/11/2026",
+    "turno": "Matutino",
+    "municipio": "MARAVILHA",
+    "escola": "EEB JOAO XXIII",
+    "turma": "5269-1-6-61 MAT",
+    "aplicador": "SANDRA MALMANN",
+    "supervisor": "ALIANA"
+  },
+  {
+    "data": "12/11/2026",
+    "turno": "Matutino",
+    "municipio": "MARAVILHA",
+    "escola": "EEB JOAO XXIII",
+    "turma": "5269-1-8-81 MAT",
+    "aplicador": "NELCI",
+    "supervisor": "ALIANA"
+  },
+  {
+    "data": "12/11/2026",
+    "turno": "Matutino",
+    "municipio": "MARAVILHA",
+    "escola": "EEB JOAO XXIII",
+    "turma": "5773-4-2-22 MAT",
+    "aplicador": "ADANIR",
+    "supervisor": "ALIANA"
+  },
+  {
+    "data": "12/11/2026",
+    "turno": "Vespertino",
+    "municipio": "MARAVILHA",
+    "escola": "EEB JOAO XXIII",
+    "turma": "5268-2-2-2 VESP",
+    "aplicador": "LUCIANA PASQUALOTTO",
+    "supervisor": "ALIANA"
+  },
+  {
+    "data": "12/11/2026",
+    "turno": "Vespertino",
+    "municipio": "MARAVILHA",
+    "escola": "EEB JOAO XXIII",
+    "turma": "5268-2-2-3 VESP",
+    "aplicador": "NELCI",
+    "supervisor": "ALIANA"
+  },
+  {
+    "data": "12/11/2026",
+    "turno": "Vespertino",
+    "municipio": "MARAVILHA",
+    "escola": "EEB JOAO XXIII",
+    "turma": "5269-2-6-64 VESP",
+    "aplicador": "SANDRA MALMANN",
+    "supervisor": "ALIANA"
+  },
+  {
+    "data": "12/11/2026",
+    "turno": "Vespertino",
+    "municipio": "MARAVILHA",
+    "escola": "EEB JOAO XXIII",
+    "turma": "5773-4-2-23 VESP",
+    "aplicador": "ADANIR",
+    "supervisor": "ALIANA"
+  },
+  {
+    "data": "12/11/2026",
+    "turno": "Matutino",
+    "municipio": "PINHALZINHO",
+    "escola": "EEB JOSE MARCOLINO ECKERT",
+    "turma": "5268-1-2-1 MAT",
+    "aplicador": "ANA TASCA",
+    "supervisor": "IVANETE"
+  },
+  {
+    "data": "12/11/2026",
+    "turno": "Matutino",
+    "municipio": "PINHALZINHO",
+    "escola": "EEB JOSE MARCOLINO ECKERT",
+    "turma": "5268-1-4-1 MAT",
+    "aplicador": "VANDERLEI",
+    "supervisor": "IVANETE"
+  },
+  {
+    "data": "12/11/2026",
+    "turno": "Matutino",
+    "municipio": "PINHALZINHO",
+    "escola": "EEB JOSE MARCOLINO ECKERT",
+    "turma": "5269-1-6-1 MAT",
+    "aplicador": "LAURA",
+    "supervisor": "IVANETE"
+  },
+  {
+    "data": "12/11/2026",
+    "turno": "Matutino",
+    "municipio": "PINHALZINHO",
+    "escola": "EEB JOSE MARCOLINO ECKERT",
+    "turma": "5269-1-8-1 MAT",
+    "aplicador": "ELIANE BARON (EXTRA: CLECIR)",
+    "supervisor": "IVANETE"
+  },
+  {
+    "data": "12/11/2026",
+    "turno": "Matutino",
+    "municipio": "PINHALZINHO",
+    "escola": "EEB JOSE MARCOLINO ECKERT",
+    "turma": "5773-4-2-21 MAT",
+    "aplicador": "NILCE",
+    "supervisor": "IVANETE"
+  },
+  {
+    "data": "12/11/2026",
+    "turno": "Noturno",
+    "municipio": "PINHALZINHO",
+    "escola": "EEB JOSE MARCOLINO ECKERT",
+    "turma": "5775-3-2-24 NOT",
+    "aplicador": "ANA TASCA",
+    "supervisor": "IVANETE"
+  },
+  {
+    "data": "12/11/2026",
+    "turno": "Noturno",
+    "municipio": "PINHALZINHO",
+    "escola": "EEB JOSE MARCOLINO ECKERT",
+    "turma": "5775-3-2-25 NOT",
+    "aplicador": "LAURA",
+    "supervisor": "IVANETE"
+  },
+  {
+    "data": "12/11/2026",
+    "turno": "Vespertino",
+    "municipio": "PINHALZINHO",
+    "escola": "EEB JOSE MARCOLINO ECKERT",
+    "turma": "5268-2-2-2 VESP",
+    "aplicador": "ANA TASCA",
+    "supervisor": "IVANETE"
+  },
+  {
+    "data": "12/11/2026",
+    "turno": "Vespertino",
+    "municipio": "PINHALZINHO",
+    "escola": "EEB JOSE MARCOLINO ECKERT",
+    "turma": "5268-2-2-3 VESP",
+    "aplicador": "ELIANE BARON",
+    "supervisor": "IVANETE"
+  },
+  {
+    "data": "12/11/2026",
+    "turno": "Vespertino",
+    "municipio": "PINHALZINHO",
+    "escola": "EEB JOSE MARCOLINO ECKERT",
+    "turma": "5268-2-4-2 VESP",
+    "aplicador": "VANDERLEI",
+    "supervisor": "IVANETE"
+  },
+  {
+    "data": "12/11/2026",
+    "turno": "Vespertino",
+    "municipio": "PINHALZINHO",
+    "escola": "EEB JOSE MARCOLINO ECKERT",
+    "turma": "5268-2-4-4 VESP",
+    "aplicador": "CLECIR",
+    "supervisor": "IVANETE"
+  },
+  {
+    "data": "12/11/2026",
+    "turno": "Vespertino",
+    "municipio": "PINHALZINHO",
+    "escola": "EEB JOSE MARCOLINO ECKERT",
+    "turma": "5269-2-6-3 VESP",
+    "aplicador": "LAURA",
+    "supervisor": "IVANETE"
+  },
+  {
+    "data": "12/11/2026",
+    "turno": "Vespertino",
+    "municipio": "PINHALZINHO",
+    "escola": "EEB JOSE MARCOLINO ECKERT",
+    "turma": "5269-2-8-3 VESP",
+    "aplicador": "NILCE",
+    "supervisor": "IVANETE"
+  },
+  {
+    "data": "12/11/2026",
+    "turno": "Vespertino",
+    "municipio": "ROMELÂNDIA",
+    "escola": "EEF ANITA GARIBALDI",
+    "turma": "201 VESP",
+    "aplicador": "IVETE",
+    "supervisor": "TAUANA"
+  },
+  {
+    "data": "12/11/2026",
+    "turno": "Matutino",
+    "municipio": "SUL BRASIL",
+    "escola": "NUCLEO ESC PAULO FREIRE",
+    "turma": "201 MAT",
+    "aplicador": "JANE",
+    "supervisor": "FABIANE"
+  },
+  {
+    "data": "12/11/2026",
+    "turno": "Matutino",
+    "municipio": "SUL BRASIL",
+    "escola": "NUCLEO ESC PAULO FREIRE",
+    "turma": "401 MAT",
+    "aplicador": "INEZ",
+    "supervisor": "FABIANE"
+  },
+  {
+    "data": "12/11/2026",
+    "turno": "Vespertino",
+    "municipio": "SUL BRASIL",
+    "escola": "NUCLEO ESC PAULO FREIRE",
+    "turma": "202 VESP",
+    "aplicador": "JANE + (EXTRA: DANIEL)",
+    "supervisor": "FABIANE"
+  },
+  {
+    "data": "12/11/2026",
+    "turno": "Vespertino",
+    "municipio": "SUL BRASIL",
+    "escola": "NUCLEO ESC PAULO FREIRE",
+    "turma": "402 VESP",
+    "aplicador": "INEZ + (EXTRA: DULCE)",
+    "supervisor": "FABIANE"
+  },
+  {
+    "data": "12/11/2026",
+    "turno": "Matutino",
+    "municipio": "SUL BRASIL",
+    "escola": "NUCLEO ESC SAO JOAO BOSCO",
+    "turma": "201 MAT",
+    "aplicador": "SALETE  ZIMERMANN",
+    "supervisor": "TAUANA"
+  },
+  {
+    "data": "12/11/2026",
+    "turno": "Matutino",
+    "municipio": "SUL BRASIL",
+    "escola": "NUCLEO ESC SAO JOAO BOSCO",
+    "turma": "401 MAT",
+    "aplicador": "DANIEL + (EXTRA: DULCE)",
+    "supervisor": "TAUANA"
+  },
+  {
+    "data": "13/11/2026",
+    "turno": "Matutino",
+    "municipio": "BOM JESUS DO OESTE",
+    "escola": "ESCOLA MUNICIPAL PROFESSOR ALBANO BORRE",
+    "turma": "2º ANO 201 MAT",
+    "aplicador": "OLISE",
+    "supervisor": "RAFAEL"
+  },
+  {
+    "data": "13/11/2026",
+    "turno": "Matutino",
+    "municipio": "BOM JESUS DO OESTE",
+    "escola": "ESCOLA MUNICIPAL PROFESSOR ALBANO BORRE",
+    "turma": "2º ANO 202 MAT",
+    "aplicador": "DULCIMARA",
+    "supervisor": "RAFAEL"
+  },
+  {
+    "data": "13/11/2026",
+    "turno": "Matutino",
+    "municipio": "BOM JESUS DO OESTE",
+    "escola": "ESCOLA MUNICIPAL PROFESSOR ALBANO BORRE",
+    "turma": "4º ANO 401 MAT",
+    "aplicador": "ANDRIELI (EXTRA: TEREZINHA)",
+    "supervisor": "RAFAEL"
+  },
+  {
+    "data": "13/11/2026",
+    "turno": "Vespertino",
+    "municipio": "BOM JESUS DO OESTE",
+    "escola": "ESCOLA MUNICIPAL PROFESSOR ALBANO BORRE",
+    "turma": "4º ANO 402 VESP",
+    "aplicador": "OLISE",
+    "supervisor": "RAFAEL"
+  },
+  {
+    "data": "13/11/2026",
+    "turno": "Matutino",
+    "municipio": "MARAVILHA",
+    "escola": "CAIC MUNDO INFANTIL",
+    "turma": "2º ANO 01 - MATUTINO",
+    "aplicador": "NELCI (EXTRA: SAMARA)",
+    "supervisor": "TAINARA"
+  },
+  {
+    "data": "13/11/2026",
+    "turno": "Matutino",
+    "municipio": "MARAVILHA",
+    "escola": "CAIC MUNDO INFANTIL",
+    "turma": "2º ANO 02 - MATUTINO",
+    "aplicador": "LIDIA RIGO",
+    "supervisor": "TAINARA"
+  },
+  {
+    "data": "13/11/2026",
+    "turno": "Matutino",
+    "municipio": "MARAVILHA",
+    "escola": "CAIC MUNDO INFANTIL",
+    "turma": "4º ANO 01 - MATUTINO",
+    "aplicador": "LUCIANA PASQUALOTTO",
+    "supervisor": "TAINARA"
+  },
+  {
+    "data": "13/11/2026",
+    "turno": "Matutino",
+    "municipio": "MARAVILHA",
+    "escola": "CAIC MUNDO INFANTIL",
+    "turma": "4º ANO 02 - MATUTINO",
+    "aplicador": "SANDRA MALMANN",
+    "supervisor": "TAINARA"
+  },
+  {
+    "data": "13/11/2026",
+    "turno": "Matutino",
+    "municipio": "MARAVILHA",
+    "escola": "CAIC MUNDO INFANTIL",
+    "turma": "4º ANO 03 - MATUTINO",
+    "aplicador": "LORENI",
+    "supervisor": "TAINARA"
+  },
+  {
+    "data": "13/11/2026",
+    "turno": "Matutino",
+    "municipio": "MARAVILHA",
+    "escola": "CAIC MUNDO INFANTIL",
+    "turma": "6º ANO 01 - MATUTINO",
+    "aplicador": "KARINE MENEZES (EXTRA: CARINA)",
+    "supervisor": "TAINARA"
+  },
+  {
+    "data": "13/11/2026",
+    "turno": "Matutino",
+    "municipio": "MARAVILHA",
+    "escola": "CAIC MUNDO INFANTIL",
+    "turma": "6º ANO 02 - MATUTINO",
+    "aplicador": "CELIA",
+    "supervisor": "TAINARA"
+  },
+  {
+    "data": "13/11/2026",
+    "turno": "Matutino",
+    "municipio": "MARAVILHA",
+    "escola": "CAIC MUNDO INFANTIL",
+    "turma": "8º ANO 01 - MATUTINO",
+    "aplicador": "LUCILENE LAGO (EXTRA: LUCINEI)",
+    "supervisor": "TAINARA"
+  },
+  {
+    "data": "13/11/2026",
+    "turno": "Matutino",
+    "municipio": "MARAVILHA",
+    "escola": "CAIC MUNDO INFANTIL",
+    "turma": "8º ANO 02 - MATUTINO",
+    "aplicador": "JACINTA",
+    "supervisor": "TAINARA"
+  },
+  {
+    "data": "13/11/2026",
+    "turno": "Vespertino",
+    "municipio": "MARAVILHA",
+    "escola": "CAIC MUNDO INFANTIL",
+    "turma": "2º ANO 04 - VESPERTINO",
+    "aplicador": "NELCI",
+    "supervisor": "TAINARA"
+  },
+  {
+    "data": "13/11/2026",
+    "turno": "Vespertino",
+    "municipio": "MARAVILHA",
+    "escola": "CAIC MUNDO INFANTIL",
+    "turma": "2º ANO 05 - VESPERTINO",
+    "aplicador": "DANIELI GHENO",
+    "supervisor": "TAINARA"
+  },
+  {
+    "data": "13/11/2026",
+    "turno": "Vespertino",
+    "municipio": "MARAVILHA",
+    "escola": "CAIC MUNDO INFANTIL",
+    "turma": "4º ANO 04 - VESPERTINO",
+    "aplicador": "LUCIANA PASQUALOTTO",
+    "supervisor": "TAINARA"
+  },
+  {
+    "data": "13/11/2026",
+    "turno": "Vespertino",
+    "municipio": "MARAVILHA",
+    "escola": "CAIC MUNDO INFANTIL",
+    "turma": "4º ANO 05 - VESPERTINO",
+    "aplicador": "SANDRA MALMANN",
+    "supervisor": "TAINARA"
+  },
+  {
+    "data": "13/11/2026",
+    "turno": "Vespertino",
+    "municipio": "MARAVILHA",
+    "escola": "CAIC MUNDO INFANTIL",
+    "turma": "4º ANO 06 - VESPERTINO",
+    "aplicador": "LORENI",
+    "supervisor": "TAINARA"
+  },
+  {
+    "data": "13/11/2026",
+    "turno": "Vespertino",
+    "municipio": "MARAVILHA",
+    "escola": "CAIC MUNDO INFANTIL",
+    "turma": "6º ANO 04 - VESPERTINO",
+    "aplicador": "LILIAN",
+    "supervisor": "TAINARA"
+  },
+  {
+    "data": "13/11/2026",
+    "turno": "Vespertino",
+    "municipio": "MARAVILHA",
+    "escola": "CAIC MUNDO INFANTIL",
+    "turma": "6º ANO 05 - VESPERTINO",
+    "aplicador": "CELIA",
+    "supervisor": "TAINARA"
+  },
+  {
+    "data": "13/11/2026",
+    "turno": "Vespertino",
+    "municipio": "MARAVILHA",
+    "escola": "CAIC MUNDO INFANTIL",
+    "turma": "8º ANO 04 - VESPERTINO",
+    "aplicador": "JACINTA",
+    "supervisor": "TAINARA"
+  },
+  {
+    "data": "13/11/2026",
+    "turno": "Matutino",
+    "municipio": "PINHALZINHO",
+    "escola": "EEB JOSE MARCOLINO ECKERT",
+    "turma": "5268-1-2-1 MAT",
+    "aplicador": "ANA TASCA",
+    "supervisor": "IVANETE"
+  },
+  {
+    "data": "13/11/2026",
+    "turno": "Matutino",
+    "municipio": "PINHALZINHO",
+    "escola": "EEB JOSE MARCOLINO ECKERT",
+    "turma": "5269-1-6-2 MAT",
+    "aplicador": "NILCE",
+    "supervisor": "IVANETE"
+  },
+  {
+    "data": "13/11/2026",
+    "turno": "Matutino",
+    "municipio": "PINHALZINHO",
+    "escola": "EEB JOSE MARCOLINO ECKERT",
+    "turma": "5269-1-8-2 MAT",
+    "aplicador": "ELIANE BARON (EXTRA: CLECIR)",
+    "supervisor": "IVANETE"
+  },
+  {
+    "data": "13/11/2026",
+    "turno": "Matutino",
+    "municipio": "PINHALZINHO",
+    "escola": "EEB JOSE MARCOLINO ECKERT",
+    "turma": "5773-4-2-22 MAT",
+    "aplicador": "VANDERLEI",
+    "supervisor": "IVANETE"
+  },
+  {
+    "data": "13/11/2026",
+    "turno": "Vespertino",
+    "municipio": "PINHALZINHO",
+    "escola": "EEB JOSE MARCOLINO ECKERT",
+    "turma": "5268-2-2-2 VESP",
+    "aplicador": "ANA TASCA",
+    "supervisor": "IVANETE"
+  },
+  {
+    "data": "13/11/2026",
+    "turno": "Vespertino",
+    "municipio": "PINHALZINHO",
+    "escola": "EEB JOSE MARCOLINO ECKERT",
+    "turma": "5268-2-2-3 VESP",
+    "aplicador": "ELIANE BARON",
+    "supervisor": "IVANETE"
+  },
+  {
+    "data": "13/11/2026",
+    "turno": "Vespertino",
+    "municipio": "PINHALZINHO",
+    "escola": "EEB JOSE MARCOLINO ECKERT",
+    "turma": "5269-2-6-4 VESP",
+    "aplicador": "NILCE",
+    "supervisor": "IVANETE"
+  },
+  {
+    "data": "13/11/2026",
+    "turno": "Vespertino",
+    "municipio": "PINHALZINHO",
+    "escola": "EEB JOSE MARCOLINO ECKERT",
+    "turma": "5773-4-2-23 VESP",
+    "aplicador": "VANDERLEI",
+    "supervisor": "IVANETE"
+  },
+  {
+    "data": "13/11/2026",
+    "turno": "Matutino",
+    "municipio": "ROMELÂNDIA",
+    "escola": "EEB PROF HERMINIO HEUSI DA SILVA",
+    "turma": "201 MAT",
+    "aplicador": "NEIVA + (EXTRA: IVETE)",
+    "supervisor": "ALIANA"
+  },
+  {
+    "data": "13/11/2026",
+    "turno": "Matutino",
+    "municipio": "ROMELÂNDIA",
+    "escola": "EEB PROF HERMINIO HEUSI DA SILVA",
+    "turma": "601 MAT",
+    "aplicador": "ALEANIR (EXTRA: NICOLI/ALIANA )",
+    "supervisor": "ALIANA"
+  },
+  {
+    "data": "13/11/2026",
+    "turno": "Matutino",
+    "municipio": "ROMELÂNDIA",
+    "escola": "EEB PROF HERMINIO HEUSI DA SILVA",
+    "turma": "801 MAT",
+    "aplicador": "MARILETE",
+    "supervisor": "ALIANA"
+  },
+  {
+    "data": "13/11/2026",
+    "turno": "Noturno",
+    "municipio": "ROMELÂNDIA",
+    "escola": "EEB PROF HERMINIO HEUSI DA SILVA",
+    "turma": "203 NOT",
+    "aplicador": "ALEANIR",
+    "supervisor": "ALIANA"
+  },
+  {
+    "data": "13/11/2026",
+    "turno": "Vespertino",
+    "municipio": "ROMELÂNDIA",
+    "escola": "EEB PROF HERMINIO HEUSI DA SILVA",
+    "turma": "202 VESP",
+    "aplicador": "NEIVA",
+    "supervisor": "ALIANA"
+  },
+  {
+    "data": "13/11/2026",
+    "turno": "Vespertino",
+    "municipio": "ROMELÂNDIA",
+    "escola": "EEB PROF HERMINIO HEUSI DA SILVA",
+    "turma": "602 VESP",
+    "aplicador": "ALEANIR",
+    "supervisor": "ALIANA"
+  },
+  {
+    "data": "13/11/2026",
+    "turno": "Vespertino",
+    "municipio": "ROMELÂNDIA",
+    "escola": "EEB PROF HERMINIO HEUSI DA SILVA",
+    "turma": "802 VESP",
+    "aplicador": "MARILETE + (EXTRA: IVETE)",
+    "supervisor": "ALIANA"
+  },
+  {
+    "data": "13/11/2026",
+    "turno": "Matutino",
+    "municipio": "SAUDADES",
+    "escola": "EEB RODRIGUES ALVES",
+    "turma": "201 MAT",
+    "aplicador": "BRUNA TROMBINI",
+    "supervisor": "SANDRA CARVALHO"
+  },
+  {
+    "data": "13/11/2026",
+    "turno": "Matutino",
+    "municipio": "SAUDADES",
+    "escola": "EEB RODRIGUES ALVES",
+    "turma": "601 MAT",
+    "aplicador": "ADANIR",
+    "supervisor": "SANDRA CARVALHO"
+  },
+  {
+    "data": "13/11/2026",
+    "turno": "Matutino",
+    "municipio": "SAUDADES",
+    "escola": "EEB RODRIGUES ALVES",
+    "turma": "602 MAT",
+    "aplicador": "PAULA FELISIAK",
+    "supervisor": "SANDRA CARVALHO"
+  },
+  {
+    "data": "13/11/2026",
+    "turno": "Matutino",
+    "municipio": "SAUDADES",
+    "escola": "EEB RODRIGUES ALVES",
+    "turma": "801 MAT",
+    "aplicador": "VERA",
+    "supervisor": "SANDRA CARVALHO"
+  },
+  {
+    "data": "13/11/2026",
+    "turno": "Matutino",
+    "municipio": "SAUDADES",
+    "escola": "EEB RODRIGUES ALVES",
+    "turma": "802 MAT",
+    "aplicador": "LIANE (EXTRA: IVANE)",
+    "supervisor": "SANDRA CARVALHO"
+  },
+  {
+    "data": "13/11/2026",
+    "turno": "Matutino",
+    "municipio": "SAUDADES",
+    "escola": "EEB RODRIGUES ALVES",
+    "turma": "803 MAT",
+    "aplicador": "ELISE",
+    "supervisor": "SANDRA CARVALHO"
+  },
+  {
+    "data": "13/11/2026",
+    "turno": "Noturno",
+    "municipio": "SAUDADES",
+    "escola": "EEB RODRIGUES ALVES",
+    "turma": "203 NOT",
+    "aplicador": "BRUNA TROMBINI",
+    "supervisor": "SANDRA CARVALHO"
+  },
+  {
+    "data": "13/11/2026",
+    "turno": "Noturno",
+    "municipio": "SAUDADES",
+    "escola": "EEB RODRIGUES ALVES",
+    "turma": "204 NOT",
+    "aplicador": "PAULA FELISIAK",
+    "supervisor": "SANDRA CARVALHO"
+  },
+  {
+    "data": "13/11/2026",
+    "turno": "Vespertino",
+    "municipio": "SAUDADES",
+    "escola": "EEB RODRIGUES ALVES",
+    "turma": "202 VESP",
+    "aplicador": "BRUNA TROMBINI",
+    "supervisor": "SANDRA CARVALHO"
+  },
+  {
+    "data": "13/11/2026",
+    "turno": "Vespertino",
+    "municipio": "SAUDADES",
+    "escola": "EEB RODRIGUES ALVES",
+    "turma": "603 VESP",
+    "aplicador": "ADANIR",
+    "supervisor": "SANDRA CARVALHO"
+  },
+  {
+    "data": "13/11/2026",
+    "turno": "Vespertino",
+    "municipio": "SAUDADES",
+    "escola": "EEB RODRIGUES ALVES",
+    "turma": "804 VESP",
+    "aplicador": "PAULA FELISIAK",
+    "supervisor": "SANDRA CARVALHO"
+  },
+  {
+    "data": "13/11/2026",
+    "turno": "Matutino",
+    "municipio": "SUL BRASIL",
+    "escola": "EEB HELIO WASUM",
+    "turma": "201 MAT",
+    "aplicador": "SIRLEIA",
+    "supervisor": "FABIANE"
+  },
+  {
+    "data": "13/11/2026",
+    "turno": "Matutino",
+    "municipio": "SUL BRASIL",
+    "escola": "EEB HELIO WASUM",
+    "turma": "601 MAT",
+    "aplicador": "INEZ",
+    "supervisor": "FABIANE"
+  },
+  {
+    "data": "13/11/2026",
+    "turno": "Matutino",
+    "municipio": "SUL BRASIL",
+    "escola": "EEB HELIO WASUM",
+    "turma": "801 MAT",
+    "aplicador": "DANIEL + (EXTRA: DULCE)",
+    "supervisor": "FABIANE"
+  },
+  {
+    "data": "13/11/2026",
+    "turno": "Noturno",
+    "municipio": "SUL BRASIL",
+    "escola": "EEB HELIO WASUM",
+    "turma": "202 NOT",
+    "aplicador": "DANIEL",
+    "supervisor": "FABIANE"
+  },
+  {
+    "data": "13/11/2026",
+    "turno": "Vespertino",
+    "municipio": "SUL BRASIL",
+    "escola": "EEB HELIO WASUM",
+    "turma": "602 VESP",
+    "aplicador": "LISETE + (EXTRA: DULCE)",
+    "supervisor": "FABIANE"
+  },
+  {
+    "data": "13/11/2026",
+    "turno": "Matutino",
+    "municipio": "SUL BRASIL",
+    "escola": "NUCLEO ESC PAULO FREIRE",
+    "turma": "201 MAT",
+    "aplicador": "JANE",
+    "supervisor": "FABIANE"
+  },
+  {
+    "data": "13/11/2026",
+    "turno": "Vespertino",
+    "municipio": "SUL BRASIL",
+    "escola": "NUCLEO ESC PAULO FREIRE",
+    "turma": "202 VESP",
+    "aplicador": "JANE + (EXTRA: DANIEL)",
+    "supervisor": "FABIANE"
+  },
+  {
+    "data": "13/11/2026",
+    "turno": "Matutino",
+    "municipio": "SUL BRASIL",
+    "escola": "NUCLEO ESC SAO JOAO BOSCO",
+    "turma": "201 MAT",
+    "aplicador": "SALETE  ZIMERMANN",
+    "supervisor": "TATIANE"
+  },
+  {
+    "data": "16/11/2026",
+    "turno": "Matutino",
+    "municipio": "BOM JESUS DO OESTE",
+    "escola": "ESCOLA MUNICIPAL PROFESSOR ALBANO BORRE",
+    "turma": "2º ANO 201 MAT",
+    "aplicador": "OLISE",
+    "supervisor": "RAFAEL"
+  },
+  {
+    "data": "16/11/2026",
+    "turno": "Matutino",
+    "municipio": "BOM JESUS DO OESTE",
+    "escola": "ESCOLA MUNICIPAL PROFESSOR ALBANO BORRE",
+    "turma": "2º ANO 202 MAT",
+    "aplicador": "DULCIMARA",
+    "supervisor": "RAFAEL"
+  },
+  {
+    "data": "16/11/2026",
+    "turno": "Matutino",
+    "municipio": "FLOR DO SERTAO",
+    "escola": "CENTRO EDUC PE LUIS MUHL",
+    "turma": "2 ANO A INTEGRAL MAT",
+    "aplicador": "IVETE",
+    "supervisor": "ALIANA"
+  },
+  {
+    "data": "16/11/2026",
+    "turno": "Matutino",
+    "municipio": "FLOR DO SERTAO",
+    "escola": "CENTRO EDUC PE LUIS MUHL",
+    "turma": "4 ANO 41 MATUTINO",
+    "aplicador": "MARILETE",
+    "supervisor": "ALIANA"
+  },
+  {
+    "data": "16/11/2026",
+    "turno": "Matutino",
+    "municipio": "FLOR DO SERTAO",
+    "escola": "CENTRO EDUC PE LUIS MUHL",
+    "turma": "4 ANO 42 MATUTINO",
+    "aplicador": "NEIVA",
+    "supervisor": "ALIANA"
+  },
+  {
+    "data": "16/11/2026",
+    "turno": "Vespertino",
+    "municipio": "FLOR DO SERTAO",
+    "escola": "CENTRO EDUC PE LUIS MUHL",
+    "turma": "2 ANO B INTEGRAL VESP",
+    "aplicador": "IVETE",
+    "supervisor": "ALIANA"
+  },
+  {
+    "data": "16/11/2026",
+    "turno": "Matutino",
+    "municipio": "MARAVILHA",
+    "escola": "CAIC MUNDO INFANTIL",
+    "turma": "2º ANO 01 - MATUTINO",
+    "aplicador": "NELCI (EXTRA: SAMARA)",
+    "supervisor": "TAINARA"
+  },
+  {
+    "data": "16/11/2026",
+    "turno": "Matutino",
+    "municipio": "MARAVILHA",
+    "escola": "CAIC MUNDO INFANTIL",
+    "turma": "2º ANO 02 - MATUTINO",
+    "aplicador": "LIDIA RIGO",
+    "supervisor": "TAINARA"
+  },
+  {
+    "data": "16/11/2026",
+    "turno": "Vespertino",
+    "municipio": "MARAVILHA",
+    "escola": "CAIC MUNDO INFANTIL",
+    "turma": "2º ANO 04 - VESPERTINO",
+    "aplicador": "NELCI",
+    "supervisor": "TAINARA"
+  },
+  {
+    "data": "16/11/2026",
+    "turno": "Vespertino",
+    "municipio": "MARAVILHA",
+    "escola": "CAIC MUNDO INFANTIL",
+    "turma": "2º ANO 05 - VESPERTINO",
+    "aplicador": "DANIELI GHENO",
+    "supervisor": "TAINARA"
+  },
+  {
+    "data": "16/11/2026",
+    "turno": "Matutino",
+    "municipio": "PINHALZINHO",
+    "escola": "EEB VENDELINO JUNGES",
+    "turma": "5268-1-2-21 MAT",
+    "aplicador": "ANA TASCA",
+    "supervisor": "IVANETE"
+  },
+  {
+    "data": "16/11/2026",
+    "turno": "Matutino",
+    "municipio": "PINHALZINHO",
+    "escola": "EEB VENDELINO JUNGES",
+    "turma": "5268-1-2-22 MAT",
+    "aplicador": "VERA",
+    "supervisor": "IVANETE"
+  },
+  {
+    "data": "16/11/2026",
+    "turno": "Matutino",
+    "municipio": "PINHALZINHO",
+    "escola": "EEB VENDELINO JUNGES",
+    "turma": "5268-1-4-41 MAT",
+    "aplicador": "IVANE",
+    "supervisor": "IVANETE"
+  },
+  {
+    "data": "16/11/2026",
+    "turno": "Matutino",
+    "municipio": "PINHALZINHO",
+    "escola": "EEB VENDELINO JUNGES",
+    "turma": "5269-1-8-81 MAT",
+    "aplicador": "VANDERLEI",
+    "supervisor": "IVANETE"
+  },
+  {
+    "data": "16/11/2026",
+    "turno": "Matutino",
+    "municipio": "PINHALZINHO",
+    "escola": "EEB VENDELINO JUNGES",
+    "turma": "5773-4-2-21 MAT",
+    "aplicador": "CLECIR",
+    "supervisor": "IVANETE"
+  },
+  {
+    "data": "16/11/2026",
+    "turno": "Matutino",
+    "municipio": "PINHALZINHO",
+    "escola": "EEB VENDELINO JUNGES",
+    "turma": "5773-4-2-22 MAT",
+    "aplicador": "ELIANE BARON",
+    "supervisor": "IVANETE"
+  },
+  {
+    "data": "16/11/2026",
+    "turno": "Vespertino",
+    "municipio": "PINHALZINHO",
+    "escola": "EEB VENDELINO JUNGES",
+    "turma": "5268-2-2-23 VESP",
+    "aplicador": "ANA TASCA",
+    "supervisor": "IVANETE"
+  },
+  {
+    "data": "16/11/2026",
+    "turno": "Vespertino",
+    "municipio": "PINHALZINHO",
+    "escola": "EEB VENDELINO JUNGES",
+    "turma": "5268-2-2-24 VESP",
+    "aplicador": "VERA",
+    "supervisor": "IVANETE"
+  },
+  {
+    "data": "16/11/2026",
+    "turno": "Vespertino",
+    "municipio": "PINHALZINHO",
+    "escola": "EEB VENDELINO JUNGES",
+    "turma": "5268-2-4-42 VESP",
+    "aplicador": "IVANE",
+    "supervisor": "IVANETE"
+  },
+  {
+    "data": "16/11/2026",
+    "turno": "Vespertino",
+    "municipio": "PINHALZINHO",
+    "escola": "EEB VENDELINO JUNGES",
+    "turma": "5269-2-8-82 VESP",
+    "aplicador": "VANDERLEI (EXTRA: FELIPE)",
+    "supervisor": "IVANETE"
+  },
+  {
+    "data": "16/11/2026",
+    "turno": "Vespertino",
+    "municipio": "PINHALZINHO",
+    "escola": "EEB VENDELINO JUNGES",
+    "turma": "5773-4-2-23 VESP",
+    "aplicador": "CLECIR",
+    "supervisor": "IVANETE"
+  },
+  {
+    "data": "16/11/2026",
+    "turno": "Matutino",
+    "municipio": "SANTA TEREZINHA DO PROGRESSO",
+    "escola": "EEB SANTA TEREZINHA",
+    "turma": "601 MAT",
+    "aplicador": "ALENAIR",
+    "supervisor": "TAUANA"
+  },
+  {
+    "data": "16/11/2026",
+    "turno": "Matutino",
+    "municipio": "SANTA TEREZINHA DO PROGRESSO",
+    "escola": "EEB SANTA TEREZINHA",
+    "turma": "801 MAT",
+    "aplicador": "SANDRA MALMANN",
+    "supervisor": "TAUANA"
+  },
+  {
+    "data": "16/11/2026",
+    "turno": "Matutino",
+    "municipio": "SANTA TEREZINHA DO PROGRESSO",
+    "escola": "NUCLEO ESC SANTA TEREZINHA",
+    "turma": "201 MAT",
+    "aplicador": "JANE + (EXTRA: DULCE)",
+    "supervisor": "TATIANE"
+  },
+  {
+    "data": "16/11/2026",
+    "turno": "Matutino",
+    "municipio": "SANTA TEREZINHA DO PROGRESSO",
+    "escola": "NUCLEO ESC SANTA TEREZINHA",
+    "turma": "401 MAT",
+    "aplicador": "DANIEL + (EXTRA: PAULA F.)",
+    "supervisor": "TATIANE"
+  },
+  {
+    "data": "16/11/2026",
+    "turno": "Vespertino",
+    "municipio": "SANTA TEREZINHA DO PROGRESSO",
+    "escola": "NUCLEO ESC SANTA TEREZINHA",
+    "turma": "202 VESP",
+    "aplicador": "JANE  + (EXTRA: DULCE) AMANDA",
+    "supervisor": "TATIANE"
+  },
+  {
+    "data": "16/11/2026",
+    "turno": "Vespertino",
+    "municipio": "SANTA TEREZINHA DO PROGRESSO",
+    "escola": "NUCLEO ESC SANTA TEREZINHA",
+    "turma": "402 VESP",
+    "aplicador": "DANIEL + (EXTRA: PAULA F.)",
+    "supervisor": "TATIANE"
+  },
+  {
+    "data": "16/11/2026",
+    "turno": "Vespertino",
+    "municipio": "SANTA TEREZINHA DO PROGRESSO",
+    "escola": "NUCLEO ESCOLAR MUNDO NOVO",
+    "turma": "201 VESP",
+    "aplicador": "INEZ + (EXTRA: ALEANIR)",
+    "supervisor": "TAUANA"
+  },
+  {
+    "data": "16/11/2026",
+    "turno": "Vespertino",
+    "municipio": "SANTA TEREZINHA DO PROGRESSO",
+    "escola": "NUCLEO ESCOLAR MUNDO NOVO",
+    "turma": "401 VESP",
+    "aplicador": "SANDRA MALMANN",
+    "supervisor": "TAUANA"
+  },
+  {
+    "data": "16/11/2026",
+    "turno": "Matutino",
+    "municipio": "SAUDADES",
+    "escola": "ESCOLA MUNICIPAL DE ENSINO FUNDAMENTAL SAUDADES",
+    "turma": "201 MAT",
+    "aplicador": "LORENI MINELA (EXTRA: FELIPE)",
+    "supervisor": "SANDRA CARVALHO"
+  },
+  {
+    "data": "16/11/2026",
+    "turno": "Matutino",
+    "municipio": "SAUDADES",
+    "escola": "ESCOLA MUNICIPAL DE ENSINO FUNDAMENTAL SAUDADES",
+    "turma": "202 MAT",
+    "aplicador": "ADANIR",
+    "supervisor": "SANDRA CARVALHO"
+  },
+  {
+    "data": "16/11/2026",
+    "turno": "Matutino",
+    "municipio": "SAUDADES",
+    "escola": "ESCOLA MUNICIPAL DE ENSINO FUNDAMENTAL SAUDADES",
+    "turma": "203 MAT",
+    "aplicador": "LIZETE (EXTRA: 16/11 BRUNA TROMBINI - 17/11 LAURA    )",
+    "supervisor": "SANDRA CARVALHO"
+  },
+  {
+    "data": "16/11/2026",
+    "turno": "Matutino",
+    "municipio": "SAUDADES",
+    "escola": "ESCOLA MUNICIPAL DE ENSINO FUNDAMENTAL SAUDADES",
+    "turma": "401 MAT",
+    "aplicador": "ELIANE BARON",
+    "supervisor": "SANDRA CARVALHO"
+  },
+  {
+    "data": "16/11/2026",
+    "turno": "Vespertino",
+    "municipio": "SAUDADES",
+    "escola": "ESCOLA MUNICIPAL DE ENSINO FUNDAMENTAL SAUDADES",
+    "turma": "204 VESP",
+    "aplicador": "LORENI MINELA (EXTRA: 16/11 - BRUNA TROMBINI 17/11- LAURA",
+    "supervisor": "SANDRA CARVALHO"
+  },
+  {
+    "data": "16/11/2026",
+    "turno": "Vespertino",
+    "municipio": "SAUDADES",
+    "escola": "ESCOLA MUNICIPAL DE ENSINO FUNDAMENTAL SAUDADES",
+    "turma": "205 VESP",
+    "aplicador": "ADANIR",
+    "supervisor": "SANDRA CARVALHO"
+  },
+  {
+    "data": "16/11/2026",
+    "turno": "Vespertino",
+    "municipio": "SAUDADES",
+    "escola": "ESCOLA MUNICIPAL DE ENSINO FUNDAMENTAL SAUDADES",
+    "turma": "206 VEP",
+    "aplicador": "LORENI DANELUZ",
+    "supervisor": "SANDRA CARVALHO"
+  },
+  {
+    "data": "16/11/2026",
+    "turno": "Vespertino",
+    "municipio": "SAUDADES",
+    "escola": "ESCOLA MUNICIPAL DE ENSINO FUNDAMENTAL SAUDADES",
+    "turma": "404 VESP",
+    "aplicador": "LIZETE",
+    "supervisor": "SANDRA CARVALHO"
+  },
+  {
+    "data": "16/11/2026",
+    "turno": "Vespertino",
+    "municipio": "SAUDADES",
+    "escola": "ESCOLA MUNICIPAL DE ENSINO FUNDAMENTAL SAUDADES",
+    "turma": "406 VEP",
+    "aplicador": "LIANE (EXTRA: ELIANE BARON)",
+    "supervisor": "SANDRA CARVALHO"
+  },
+  {
+    "data": "16/11/2026",
+    "turno": "Matutino",
+    "municipio": "SERRA ALTA ok",
+    "escola": "EEB LA SALLE",
+    "turma": "201 MAT",
+    "aplicador": "SALETE ZIMMERMANN",
+    "supervisor": "FABIANE"
+  },
+  {
+    "data": "16/11/2026",
+    "turno": "Matutino",
+    "municipio": "SERRA ALTA ok",
+    "escola": "EEB LA SALLE",
+    "turma": "601 MAT",
+    "aplicador": "SIRLEIA (EXTRA: )",
+    "supervisor": "FABIANE"
+  },
+  {
+    "data": "16/11/2026",
+    "turno": "Matutino",
+    "municipio": "SERRA ALTA ok",
+    "escola": "EEB LA SALLE",
+    "turma": "611 MAT",
+    "aplicador": "VANDERLEI  (EXTRA: )",
+    "supervisor": "FABIANE"
+  },
+  {
+    "data": "16/11/2026",
+    "turno": "Matutino",
+    "municipio": "SERRA ALTA ok",
+    "escola": "EEB LA SALLE",
+    "turma": "801 MAT",
+    "aplicador": "LAURA",
+    "supervisor": "FABIANE"
+  },
+  {
+    "data": "16/11/2026",
+    "turno": "Noturno",
+    "municipio": "SERRA ALTA ok",
+    "escola": "EEB LA SALLE",
+    "turma": "203 NOT",
+    "aplicador": "LAURA",
+    "supervisor": "FABIANE"
+  },
+  {
+    "data": "16/11/2026",
+    "turno": "Vespertino",
+    "municipio": "SERRA ALTA ok",
+    "escola": "EEB LA SALLE",
+    "turma": "802 VESP",
+    "aplicador": "SALETE ZIMMERMANN (EXTRA LAURA)",
+    "supervisor": "FABIANE"
+  },
+  {
+    "data": "16/11/2026",
+    "turno": "Matutino",
+    "municipio": "TIGRINHOS falta",
+    "escola": "CE PROFESSOR IVO LUIZ HONNEF",
+    "turma": "201 MAT",
+    "aplicador": "CÉLIA",
+    "supervisor": "MERI"
+  },
+  {
+    "data": "16/11/2026",
+    "turno": "Matutino",
+    "municipio": "TIGRINHOS falta",
+    "escola": "CE PROFESSOR IVO LUIZ HONNEF",
+    "turma": "401 MAT",
+    "aplicador": "JACINTA (EXTRA: ANDRIELI-  cadastro)",
+    "supervisor": "MERI"
+  },
+  {
+    "data": "16/11/2026",
+    "turno": "Vespertino",
+    "municipio": "TIGRINHOS falta",
+    "escola": "CE PROFESSOR IVO LUIZ HONNEF",
+    "turma": "202 VESP",
+    "aplicador": "CÉLIA (EXTRA: 16/11 ROZELI LAUERMANN- EXTRA 17/11: MARCIA GRAEFF- 2horas)",
+    "supervisor": "MERI"
+  },
+  {
+    "data": "16/11/2026",
+    "turno": "Vespertino",
+    "municipio": "TIGRINHOS falta",
+    "escola": "CE PROFESSOR IVO LUIZ HONNEF",
+    "turma": "402 VESP",
+    "aplicador": "JACINTA (EXTRA: MARCIA GRAEFF)",
+    "supervisor": "MERI"
+  },
+  {
+    "data": "17/11/2026",
+    "turno": "Matutino",
+    "municipio": "FLOR DO SERTAO",
+    "escola": "CENTRO EDUC PE LUIS MUHL",
+    "turma": "2 ANO A INTEGRAL MAT",
+    "aplicador": "IVETE",
+    "supervisor": "ALIANA"
+  },
+  {
+    "data": "17/11/2026",
+    "turno": "Vespertino",
+    "municipio": "FLOR DO SERTAO",
+    "escola": "CENTRO EDUC PE LUIS MUHL",
+    "turma": "2 ANO B INTEGRAL VESP",
+    "aplicador": "IVETE",
+    "supervisor": "ALIANA"
+  },
+  {
+    "data": "17/11/2026",
+    "turno": "Matutino",
+    "municipio": "IRACEMINHA",
+    "escola": "EEB PROF MANUEL DE FREITAS TRANCOSO",
+    "turma": "5269-1-8-801 MAT",
+    "aplicador": "IVETE ZANROSSO",
+    "supervisor": "RAFAEL"
+  },
+  {
+    "data": "17/11/2026",
+    "turno": "Matutino",
+    "municipio": "IRACEMINHA",
+    "escola": "EEB PROF MANUEL DE FREITAS TRANCOSO",
+    "turma": "5773-4-2-201 MAT",
+    "aplicador": "OLISE",
+    "supervisor": "RAFAEL"
+  },
+  {
+    "data": "17/11/2026",
+    "turno": "Noturno",
+    "municipio": "IRACEMINHA",
+    "escola": "EEB PROF MANUEL DE FREITAS TRANCOSO",
+    "turma": "5775-3-2-203 NOT",
+    "aplicador": "OLISE",
+    "supervisor": "RAFAEL"
+  },
+  {
+    "data": "17/11/2026",
+    "turno": "Vespertino",
+    "municipio": "IRACEMINHA",
+    "escola": "EEB PROF MANUEL DE FREITAS TRANCOSO",
+    "turma": "5269-2-6-602 VESP",
+    "aplicador": "OLISE + (EXTRA: IVETE ZANROSSO)",
+    "supervisor": "RAFAEL"
+  },
+  {
+    "data": "17/11/2026",
+    "turno": "Matutino",
+    "municipio": "MARAVILHA",
+    "escola": "CENTRO EDUC MONTEIRO LOBATO",
+    "turma": "2 ANO INTEGRAL MATUTINO",
+    "aplicador": "LIDIA RIGO (17/11 - KARINE MENEZES- 18/11 LORENI DANELUZ)",
+    "supervisor": "ALIANA"
+  },
+  {
+    "data": "17/11/2026",
+    "turno": "Vespertino",
+    "municipio": "MARAVILHA",
+    "escola": "CENTRO EDUC MONTEIRO LOBATO",
+    "turma": "2 ANO VESPERTINO",
+    "aplicador": "DANIELI GHENO (EXTRA: MARCIA GRAEFF)",
+    "supervisor": "ALIANA"
+  },
+  {
+    "data": "17/11/2026",
+    "turno": "Matutino",
+    "municipio": "MARAVILHA",
+    "escola": "CENTRO EDUC VER RAYMUNDO VEIT",
+    "turma": "2º ANO 01 MAT",
+    "aplicador": "NELCI",
+    "supervisor": "TAINARA"
+  },
+  {
+    "data": "17/11/2026",
+    "turno": "Matutino",
+    "municipio": "MARAVILHA",
+    "escola": "CENTRO EDUC VER RAYMUNDO VEIT",
+    "turma": "2º ANO 02 MAT",
+    "aplicador": "JACINTA",
+    "supervisor": "TAINARA"
+  },
+  {
+    "data": "17/11/2026",
+    "turno": "Matutino",
+    "municipio": "MARAVILHA",
+    "escola": "CENTRO EDUC VER RAYMUNDO VEIT",
+    "turma": "6º ANO 01 MAT",
+    "aplicador": "LUCINEI VIEIRA",
+    "supervisor": "TAINARA"
+  },
+  {
+    "data": "17/11/2026",
+    "turno": "Matutino",
+    "municipio": "MARAVILHA",
+    "escola": "CENTRO EDUC VER RAYMUNDO VEIT",
+    "turma": "8º ANO 01 MAT",
+    "aplicador": "SANDRA MALMANN",
+    "supervisor": "TAINARA"
+  },
+  {
+    "data": "17/11/2026",
+    "turno": "Vespertino",
+    "municipio": "MARAVILHA",
+    "escola": "CENTRO EDUC VER RAYMUNDO VEIT",
+    "turma": "2º ANO 03 VESP",
+    "aplicador": "NELCI",
+    "supervisor": "TAINARA"
+  },
+  {
+    "data": "17/11/2026",
+    "turno": "Vespertino",
+    "municipio": "MARAVILHA",
+    "escola": "CENTRO EDUC VER RAYMUNDO VEIT",
+    "turma": "2º ANO 04 VESP",
+    "aplicador": "JACINTA",
+    "supervisor": "TAINARA"
+  },
+  {
+    "data": "17/11/2026",
+    "turno": "Vespertino",
+    "municipio": "MARAVILHA",
+    "escola": "CENTRO EDUC VER RAYMUNDO VEIT",
+    "turma": "4º ANO 04 VESP",
+    "aplicador": "ALINE BONALDO",
+    "supervisor": "TAINARA"
+  },
+  {
+    "data": "17/11/2026",
+    "turno": "Vespertino",
+    "municipio": "MARAVILHA",
+    "escola": "CENTRO EDUC VER RAYMUNDO VEIT",
+    "turma": "6º ANO 03 VESP",
+    "aplicador": "LILIAN",
+    "supervisor": "TAINARA"
+  },
+  {
+    "data": "17/11/2026",
+    "turno": "Matutino",
+    "municipio": "MODELO  ok",
+    "escola": "CASA FAMILIAR RURAL DE MODELO",
+    "turma": "201 EM MAT",
+    "aplicador": "SIRLEIA (EXTRA: SALETE ZIMERNANN- não tem extra)",
+    "supervisor": "TATIANE"
+  },
+  {
+    "data": "17/11/2026",
+    "turno": "Matutino",
+    "municipio": "PINHALZINHO",
+    "escola": "EEB VENDELINO JUNGES",
+    "turma": "5268-1-2-21 MAT",
+    "aplicador": "ANA TASCA",
+    "supervisor": "IVANETE"
+  },
+  {
+    "data": "17/11/2026",
+    "turno": "Matutino",
+    "municipio": "PINHALZINHO",
+    "escola": "EEB VENDELINO JUNGES",
+    "turma": "5268-1-2-22 MAT",
+    "aplicador": "VERA",
+    "supervisor": "IVANETE"
+  },
+  {
+    "data": "17/11/2026",
+    "turno": "Matutino",
+    "municipio": "PINHALZINHO",
+    "escola": "EEB VENDELINO JUNGES",
+    "turma": "5269-1-6-61 MAT",
+    "aplicador": "IVANE (EXTRA: NICOLI)",
+    "supervisor": "IVANETE"
+  },
+  {
+    "data": "17/11/2026",
+    "turno": "Vespertino",
+    "municipio": "PINHALZINHO",
+    "escola": "EEB VENDELINO JUNGES",
+    "turma": "5268-2-2-23 VESP",
+    "aplicador": "ANA TASCA",
+    "supervisor": "IVANETE"
+  },
+  {
+    "data": "17/11/2026",
+    "turno": "Vespertino",
+    "municipio": "PINHALZINHO",
+    "escola": "EEB VENDELINO JUNGES",
+    "turma": "5268-2-2-24 VESP",
+    "aplicador": "VERA",
+    "supervisor": "IVANETE"
+  },
+  {
+    "data": "17/11/2026",
+    "turno": "Vespertino",
+    "municipio": "PINHALZINHO",
+    "escola": "EEB VENDELINO JUNGES",
+    "turma": "5269-2-6-62 VESP",
+    "aplicador": "IVANE",
+    "supervisor": "IVANETE"
+  },
+  {
+    "data": "17/11/2026",
+    "turno": "Vespertino",
+    "municipio": "PINHALZINHO",
+    "escola": "EEB VENDELINO JUNGES",
+    "turma": "5269-2-6-63 VESP",
+    "aplicador": "VANDERLEI",
+    "supervisor": "IVANETE"
+  },
+  {
+    "data": "17/11/2026",
+    "turno": "Vespertino",
+    "municipio": "ROMELANDIA ok",
+    "escola": "EEB PROF JOAO ROMARIO MOREIRA",
+    "turma": "601 VESP",
+    "aplicador": "MARILETE",
+    "supervisor": "FABIO"
+  },
+  {
+    "data": "17/11/2026",
+    "turno": "Vespertino",
+    "municipio": "ROMELANDIA ok",
+    "escola": "EEB PROF JOAO ROMARIO MOREIRA",
+    "turma": "801 VESP",
+    "aplicador": "NEIVA",
+    "supervisor": "FABIO"
+  },
+  {
+    "data": "17/11/2026",
+    "turno": "Matutino",
+    "municipio": "SANTA TEREZINHA DO PROGRESSO",
+    "escola": "EEB SANTA TEREZINHA",
+    "turma": "201 EM MAT",
+    "aplicador": "ALEANIR",
+    "supervisor": "TAUANA"
+  },
+  {
+    "data": "17/11/2026",
+    "turno": "Noturno",
+    "municipio": "SANTA TEREZINHA DO PROGRESSO",
+    "escola": "EEB SANTA TEREZINHA",
+    "turma": "203 EM NOT",
+    "aplicador": "DANIEL AMANDA",
+    "supervisor": "TAUANA"
+  },
+  {
+    "data": "17/11/2026",
+    "turno": "Vespertino",
+    "municipio": "SANTA TEREZINHA DO PROGRESSO",
+    "escola": "EEB SANTA TEREZINHA",
+    "turma": "602 VESP",
+    "aplicador": "SANDRA MALMANN AMANDA",
+    "supervisor": "TAUANA"
+  },
+  {
+    "data": "17/11/2026",
+    "turno": "Vespertino",
+    "municipio": "SANTA TEREZINHA DO PROGRESSO",
+    "escola": "EEB SANTA TEREZINHA",
+    "turma": "802 VESP",
+    "aplicador": "DANIEL",
+    "supervisor": "TAUANA"
+  },
+  {
+    "data": "17/11/2026",
+    "turno": "Matutino",
+    "municipio": "SANTA TEREZINHA DO PROGRESSO",
+    "escola": "NUCLEO ESC SANTA TEREZINHA",
+    "turma": "201 MAT",
+    "aplicador": "JANE + (EXTRA: DULCE)",
+    "supervisor": "CAROL"
+  },
+  {
+    "data": "17/11/2026",
+    "turno": "Vespertino",
+    "municipio": "SANTA TEREZINHA DO PROGRESSO",
+    "escola": "NUCLEO ESC SANTA TEREZINHA",
+    "turma": "202 VESP",
+    "aplicador": "JANE  + (EXTRA: DULCE) AMANDA",
+    "supervisor": "CAROL"
+  },
+  {
+    "data": "17/11/2026",
+    "turno": "Vespertino",
+    "municipio": "SANTA TEREZINHA DO PROGRESSO",
+    "escola": "NUCLEO ESCOLAR MUNDO NOVO",
+    "turma": "201 VESP",
+    "aplicador": "INEZ + (EXTRA: ALEANIR)",
+    "supervisor": "TAUANA"
+  },
+  {
+    "data": "17/11/2026",
+    "turno": "Matutino",
+    "municipio": "SAUDADES",
+    "escola": "ESCOLA MUNICIPAL DE ENSINO FUNDAMENTAL SAUDADES",
+    "turma": "201 MAT",
+    "aplicador": "LORENI MINELA (EXTRA: FELIPE)",
+    "supervisor": "SANDRA CARVALHO"
+  },
+  {
+    "data": "17/11/2026",
+    "turno": "Matutino",
+    "municipio": "SAUDADES",
+    "escola": "ESCOLA MUNICIPAL DE ENSINO FUNDAMENTAL SAUDADES",
+    "turma": "202 MAT",
+    "aplicador": "ADANIR",
+    "supervisor": "SANDRA CARVALHO"
+  },
+  {
+    "data": "17/11/2026",
+    "turno": "Matutino",
+    "municipio": "SAUDADES",
+    "escola": "ESCOLA MUNICIPAL DE ENSINO FUNDAMENTAL SAUDADES",
+    "turma": "203 MAT",
+    "aplicador": "LIZETE (EXTRA: 16/11 BRUNA TROMBINI - 17/11 LAURA    )",
+    "supervisor": "SANDRA CARVALHO"
+  },
+  {
+    "data": "17/11/2026",
+    "turno": "Matutino",
+    "municipio": "SAUDADES",
+    "escola": "ESCOLA MUNICIPAL DE ENSINO FUNDAMENTAL SAUDADES",
+    "turma": "402 MAT",
+    "aplicador": "PAULA FELISIAK (EXTRA: CLECIR)",
+    "supervisor": "SANDRA CARVALHO"
+  },
+  {
+    "data": "17/11/2026",
+    "turno": "Matutino",
+    "municipio": "SAUDADES",
+    "escola": "ESCOLA MUNICIPAL DE ENSINO FUNDAMENTAL SAUDADES",
+    "turma": "403 MAT",
+    "aplicador": "NILCE (EXTRA: BRUNA TROMBINI)",
+    "supervisor": "SANDRA CARVALHO"
+  },
+  {
+    "data": "17/11/2026",
+    "turno": "Vespertino",
+    "municipio": "SAUDADES",
+    "escola": "ESCOLA MUNICIPAL DE ENSINO FUNDAMENTAL SAUDADES",
+    "turma": "204 VESP",
+    "aplicador": "LORENI MINELA (EXTRA: 16/11 - BRUNA TROMBINI 17/11- LAURA",
+    "supervisor": "SANDRA CARVALHO"
+  },
+  {
+    "data": "17/11/2026",
+    "turno": "Vespertino",
+    "municipio": "SAUDADES",
+    "escola": "ESCOLA MUNICIPAL DE ENSINO FUNDAMENTAL SAUDADES",
+    "turma": "205 VESP",
+    "aplicador": "ADANIR",
+    "supervisor": "SANDRA CARVALHO"
+  },
+  {
+    "data": "17/11/2026",
+    "turno": "Vespertino",
+    "municipio": "SAUDADES",
+    "escola": "ESCOLA MUNICIPAL DE ENSINO FUNDAMENTAL SAUDADES",
+    "turma": "206 VEP",
+    "aplicador": "LORENI DANELUZ",
+    "supervisor": "SANDRA CARVALHO"
+  },
+  {
+    "data": "17/11/2026",
+    "turno": "Vespertino",
+    "municipio": "SAUDADES",
+    "escola": "ESCOLA MUNICIPAL DE ENSINO FUNDAMENTAL SAUDADES",
+    "turma": "405 VESP",
+    "aplicador": "CLECIR + (EXTRA: PAULA 17/11)",
+    "supervisor": "SANDRA CARVALHO"
+  },
+  {
+    "data": "17/11/2026",
+    "turno": "Integral",
+    "municipio": "SAUDADES - OK",
+    "escola": "CASA FAMILIAR RURAL DE SAUDADES",
+    "turma": "201 EM INT",
+    "aplicador": "LISETE (EXTRA: FELIPE NÃO TEM)",
+    "supervisor": "FABIANE"
+  },
+  {
+    "data": "17/11/2026",
+    "turno": "Matutino",
+    "municipio": "TIGRINHOS falta",
+    "escola": "CE PROFESSOR IVO LUIZ HONNEF",
+    "turma": "201 MAT",
+    "aplicador": "CÉLIA",
+    "supervisor": "MERI"
+  },
+  {
+    "data": "17/11/2026",
+    "turno": "Vespertino",
+    "municipio": "TIGRINHOS falta",
+    "escola": "CE PROFESSOR IVO LUIZ HONNEF",
+    "turma": "202 VESP",
+    "aplicador": "CÉLIA (EXTRA: 16/11 ROZELI LAUERMANN- EXTRA 17/11: MARCIA GRAEFF- 2horas)",
+    "supervisor": "MERI"
+  },
+  {
+    "data": "18/11/2026",
+    "turno": "Matutino",
+    "municipio": "FLOR DO SERTAO",
+    "escola": "EEB JORGE LACERDA",
+    "turma": "5773-4-2-201 MAT",
+    "aplicador": "LAURA",
+    "supervisor": "ALIANA"
+  },
+  {
+    "data": "18/11/2026",
+    "turno": "Noturno",
+    "municipio": "FLOR DO SERTAO",
+    "escola": "EEB JORGE LACERDA",
+    "turma": "5775-3-2-1 NOT",
+    "aplicador": "TEREZINHA",
+    "supervisor": "ALIANA"
+  },
+  {
+    "data": "18/11/2026",
+    "turno": "Vespertino",
+    "municipio": "FLOR DO SERTAO",
+    "escola": "EEB JORGE LACERDA",
+    "turma": "5269-2-6-602 VESP",
+    "aplicador": "LAURA",
+    "supervisor": "ALIANA"
+  },
+  {
+    "data": "18/11/2026",
+    "turno": "Vespertino",
+    "municipio": "FLOR DO SERTAO",
+    "escola": "EEB JORGE LACERDA",
+    "turma": "5269-2-8-802 VESP",
+    "aplicador": "NEIVA",
+    "supervisor": "ALIANA"
+  },
+  {
+    "data": "18/11/2026",
+    "turno": "Matutino",
+    "municipio": "IRACEMINHA",
+    "escola": "EEF PROF BALBINO MARTINS",
+    "turma": "5269-1-8-1 MAT",
+    "aplicador": "OLISE",
+    "supervisor": "RAFAEL"
+  },
+  {
+    "data": "18/11/2026",
+    "turno": "Vespertino",
+    "municipio": "IRACEMINHA",
+    "escola": "EEF PROF BALBINO MARTINS",
+    "turma": "5268-2-2-2 VESP",
+    "aplicador": "IVETE ZANROSSO",
+    "supervisor": "RAFAEL"
+  },
+  {
+    "data": "18/11/2026",
+    "turno": "Vespertino",
+    "municipio": "IRACEMINHA",
+    "escola": "EEF PROF BALBINO MARTINS",
+    "turma": "5269-2-6-1 VESP",
+    "aplicador": "OLISE",
+    "supervisor": "RAFAEL"
+  },
+  {
+    "data": "18/11/2026",
+    "turno": "Matutino",
+    "municipio": "MARAVILHA",
+    "escola": "CENTRO EDUC MONTEIRO LOBATO",
+    "turma": "2 ANO INTEGRAL MATUTINO",
+    "aplicador": "LIDIA RIGO (17/11 - KARINE MENEZES- 18/11 LORENI DANELUZ)",
+    "supervisor": "ALIANA"
+  },
+  {
+    "data": "18/11/2026",
+    "turno": "Matutino",
+    "municipio": "MARAVILHA",
+    "escola": "CENTRO EDUC MONTEIRO LOBATO",
+    "turma": "4 ANO MATUTINO",
+    "aplicador": "PAULA F. (KARINE MENEZES)",
+    "supervisor": "ALIANA"
+  },
+  {
+    "data": "18/11/2026",
+    "turno": "Matutino",
+    "municipio": "MARAVILHA",
+    "escola": "CENTRO EDUC MONTEIRO LOBATO",
+    "turma": "8 ANO MATUTINO",
+    "aplicador": "ADANIR (SAMARA)",
+    "supervisor": "ALIANA"
+  },
+  {
+    "data": "18/11/2026",
+    "turno": "Vespertino",
+    "municipio": "MARAVILHA",
+    "escola": "CENTRO EDUC MONTEIRO LOBATO",
+    "turma": "2 ANO VESPERTINO",
+    "aplicador": "DANIELI GHENO (EXTRA: MARCIA GRAEFF)",
+    "supervisor": "ALIANA"
+  },
+  {
+    "data": "18/11/2026",
+    "turno": "Vespertino",
+    "municipio": "MARAVILHA",
+    "escola": "CENTRO EDUC MONTEIRO LOBATO",
+    "turma": "4 ANO VESPERTINO",
+    "aplicador": "PAULA F. (NICOLI)",
+    "supervisor": "ALIANA"
+  },
+  {
+    "data": "18/11/2026",
+    "turno": "Vespertino",
+    "municipio": "MARAVILHA",
+    "escola": "CENTRO EDUC MONTEIRO LOBATO",
+    "turma": "6 ANO VESPERTINO",
+    "aplicador": "ADANIR (BRUNA TROMBINI)",
+    "supervisor": "ALIANA"
+  },
+  {
+    "data": "18/11/2026",
+    "turno": "Matutino",
+    "municipio": "MARAVILHA",
+    "escola": "CENTRO EDUC VER RAYMUNDO VEIT",
+    "turma": "2º ANO 01 MAT",
+    "aplicador": "NELCI",
+    "supervisor": "MERI"
+  },
+  {
+    "data": "18/11/2026",
+    "turno": "Matutino",
+    "municipio": "MARAVILHA",
+    "escola": "CENTRO EDUC VER RAYMUNDO VEIT",
+    "turma": "2º ANO 02 MAT",
+    "aplicador": "JACINTA",
+    "supervisor": "MERI"
+  },
+  {
+    "data": "18/11/2026",
+    "turno": "Matutino",
+    "municipio": "MARAVILHA",
+    "escola": "CENTRO EDUC VER RAYMUNDO VEIT",
+    "turma": "4º ANO 01 MAT",
+    "aplicador": "LUCILENE LAGO",
+    "supervisor": "MERI"
+  },
+  {
+    "data": "18/11/2026",
+    "turno": "Matutino",
+    "municipio": "MARAVILHA",
+    "escola": "CENTRO EDUC VER RAYMUNDO VEIT",
+    "turma": "4º ANO 02 MAT",
+    "aplicador": "CELIA",
+    "supervisor": "MERI"
+  },
+  {
+    "data": "18/11/2026",
+    "turno": "Matutino",
+    "municipio": "MARAVILHA",
+    "escola": "CENTRO EDUC VER RAYMUNDO VEIT",
+    "turma": "6º ANO 02 MAT",
+    "aplicador": "LUCINEI VIEIRA",
+    "supervisor": "MERI"
+  },
+  {
+    "data": "18/11/2026",
+    "turno": "Vespertino",
+    "municipio": "MARAVILHA",
+    "escola": "CENTRO EDUC VER RAYMUNDO VEIT",
+    "turma": "2º ANO 03 VESP",
+    "aplicador": "NELCI",
+    "supervisor": "MERI"
+  },
+  {
+    "data": "18/11/2026",
+    "turno": "Vespertino",
+    "municipio": "MARAVILHA",
+    "escola": "CENTRO EDUC VER RAYMUNDO VEIT",
+    "turma": "2º ANO 04 VESP",
+    "aplicador": "JACINTA",
+    "supervisor": "MERI"
+  },
+  {
+    "data": "18/11/2026",
+    "turno": "Vespertino",
+    "municipio": "MARAVILHA",
+    "escola": "CENTRO EDUC VER RAYMUNDO VEIT",
+    "turma": "4º ANO 03 VESP",
+    "aplicador": "CELIA",
+    "supervisor": "MERI"
+  },
+  {
+    "data": "18/11/2026",
+    "turno": "Vespertino",
+    "municipio": "MARAVILHA",
+    "escola": "CENTRO EDUC VER RAYMUNDO VEIT",
+    "turma": "6º ANO 04 VESP",
+    "aplicador": "ALINE BONALDO (EXTRA: JAQUELINE)",
+    "supervisor": "MERI"
+  },
+  {
+    "data": "18/11/2026",
+    "turno": "Vespertino",
+    "municipio": "MARAVILHA",
+    "escola": "CENTRO EDUC VER RAYMUNDO VEIT",
+    "turma": "8º ANO 02 VESP",
+    "aplicador": "ZELIR (EXTRA: DULCE)",
+    "supervisor": "MERI"
+  },
+  {
+    "data": "18/11/2026",
+    "turno": "Matutino",
+    "municipio": "PINHALZINHO",
+    "escola": "ESCOLA MUNICIPAL DE ENSINO FUNDAMENTAL DOM JOSE GOMES",
+    "turma": "2º ANO - INTEGRAL MAT",
+    "aplicador": "VERA",
+    "supervisor": "IVANETE"
+  },
+  {
+    "data": "18/11/2026",
+    "turno": "Matutino",
+    "municipio": "PINHALZINHO",
+    "escola": "ESCOLA MUNICIPAL DE ENSINO FUNDAMENTAL DOM JOSE GOMES",
+    "turma": "2º ANO 01 - MATUTINO",
+    "aplicador": "ANA TASCA",
+    "supervisor": "IVANETE"
+  },
+  {
+    "data": "18/11/2026",
+    "turno": "Matutino",
+    "municipio": "PINHALZINHO",
+    "escola": "ESCOLA MUNICIPAL DE ENSINO FUNDAMENTAL DOM JOSE GOMES",
+    "turma": "4º ANO 01 - MATUTINO",
+    "aplicador": "IVANE",
+    "supervisor": "IVANETE"
+  },
+  {
+    "data": "18/11/2026",
+    "turno": "Vespertino",
+    "municipio": "PINHALZINHO",
+    "escola": "ESCOLA MUNICIPAL DE ENSINO FUNDAMENTAL DOM JOSE GOMES",
+    "turma": "2º ANO 02 - VESPERTINO",
+    "aplicador": "ANA TASCA",
+    "supervisor": "IVANETE"
+  },
+  {
+    "data": "18/11/2026",
+    "turno": "Vespertino",
+    "municipio": "PINHALZINHO",
+    "escola": "ESCOLA MUNICIPAL DE ENSINO FUNDAMENTAL DOM JOSE GOMES",
+    "turma": "8º ANO 01 - VESPERTINO",
+    "aplicador": "VERA (EXTRA: IVANE)",
+    "supervisor": "IVANETE"
+  },
+  {
+    "data": "18/11/2026",
+    "turno": "Matutino",
+    "municipio": "ROMELÂNDIA",
+    "escola": "ESCOLA MUN MILENA SCHAFER",
+    "turma": "201 MAT",
+    "aplicador": "IVETE",
+    "supervisor": "TATIANE"
+  },
+  {
+    "data": "18/11/2026",
+    "turno": "Matutino",
+    "municipio": "ROMELÂNDIA",
+    "escola": "ESCOLA MUN MILENA SCHAFER",
+    "turma": "401 MAT",
+    "aplicador": "LORENI MINELA",
+    "supervisor": "TATIANE"
+  },
+  {
+    "data": "18/11/2026",
+    "turno": "Vespertino",
+    "municipio": "ROMELÂNDIA",
+    "escola": "ESCOLA MUN MILENA SCHAFER",
+    "turma": "202 VESP",
+    "aplicador": "IVETE",
+    "supervisor": "TATIANE"
+  },
+  {
+    "data": "18/11/2026",
+    "turno": "Vespertino",
+    "municipio": "ROMELÂNDIA",
+    "escola": "ESCOLA MUN MILENA SCHAFER",
+    "turma": "402 VESP",
+    "aplicador": "MARILETE + (EXTRA: LORENI  MINELA)",
+    "supervisor": "TATIANE"
+  },
+  {
+    "data": "18/11/2026",
+    "turno": "Matutino",
+    "municipio": "SALTINHO",
+    "escola": "NUCLEO ESC MUN SALTINHO",
+    "turma": "201 MAT",
+    "aplicador": "ALENAIR + (EXTRA: SIRLEIA)",
+    "supervisor": "TAUANA"
+  },
+  {
+    "data": "18/11/2026",
+    "turno": "Matutino",
+    "municipio": "SALTINHO",
+    "escola": "NUCLEO ESC MUN SALTINHO",
+    "turma": "401 MAT",
+    "aplicador": "SANDRA MALMANN (EXTRA: JONATHAN)",
+    "supervisor": "TAUANA"
+  },
+  {
+    "data": "18/11/2026",
+    "turno": "Vespertino",
+    "municipio": "SALTINHO",
+    "escola": "NUCLEO ESC MUN SALTINHO",
+    "turma": "202 VESP",
+    "aplicador": "ALENAIR",
+    "supervisor": "TAUANA"
+  },
+  {
+    "data": "18/11/2026",
+    "turno": "Vespertino",
+    "municipio": "SALTINHO",
+    "escola": "NUCLEO ESC MUN SALTINHO",
+    "turma": "402 VESP",
+    "aplicador": "SANDRA MALMANN (EXTRA: JONATHAN)",
+    "supervisor": "TAUANA"
+  },
+  {
+    "data": "18/11/2026",
+    "turno": "Matutino",
+    "municipio": "SAUDADES",
+    "escola": "EEB RODOLFO FOSS",
+    "turma": "401 MAT",
+    "aplicador": "LIZETE",
+    "supervisor": "SANDRA CARVALHO"
+  },
+  {
+    "data": "18/11/2026",
+    "turno": "Vespertino",
+    "municipio": "SAUDADES",
+    "escola": "EEB RODOLFO FOSS",
+    "turma": "201 EF VESP",
+    "aplicador": "LIZETE (EXTRA: FELIPE)",
+    "supervisor": "SANDRA CARVALHO"
+  },
+  {
+    "data": "18/11/2026",
+    "turno": "Matutino",
+    "municipio": "SUL BRASIL",
+    "escola": "EEB SAO JOAO BOSCO",
+    "turma": "6 MAT",
+    "aplicador": "JANE",
+    "supervisor": "FABIANE"
+  },
+  {
+    "data": "18/11/2026",
+    "turno": "Matutino",
+    "municipio": "SUL BRASIL",
+    "escola": "EEB SAO JOAO BOSCO",
+    "turma": "8 MAT",
+    "aplicador": "INEZ",
+    "supervisor": "FABIANE"
+  },
+  {
+    "data": "18/11/2026",
+    "turno": "Noturno",
+    "municipio": "SUL BRASIL",
+    "escola": "EEB SAO JOAO BOSCO",
+    "turma": "2 EM NOT",
+    "aplicador": "DANIEL",
+    "supervisor": "FABIANE"
+  },
+  {
+    "data": "18/11/2026",
+    "turno": "Vespertino",
+    "municipio": "SUL BRASIL",
+    "escola": "EEB SAO JOAO BOSCO",
+    "turma": "2 EM VESP",
+    "aplicador": "DANIEL (EXTRA: )",
+    "supervisor": "FABIANE"
+  },
+  {
+    "data": "18/11/2026",
+    "turno": "Vespertino",
+    "municipio": "SUL BRASIL",
+    "escola": "EEB SAO JOAO BOSCO",
+    "turma": "6 VESP",
+    "aplicador": "JANE",
+    "supervisor": "FABIANE"
+  },
+  {
+    "data": "18/11/2026",
+    "turno": "Vespertino",
+    "municipio": "SUL BRASIL",
+    "escola": "EEB SAO JOAO BOSCO",
+    "turma": "8 VESP",
+    "aplicador": "INEZ",
+    "supervisor": "FABIANE"
+  },
+  {
+    "data": "19/11/2026",
+    "turno": "Matutino",
+    "municipio": "PINHALZINHO",
+    "escola": "ESCOLA MUNICIPAL DE ENSINO FUNDAMENTAL DOM JOSE GOMES",
+    "turma": "2º ANO - INTEGRAL MAT",
+    "aplicador": "VERA",
+    "supervisor": "IVANETE"
+  },
+  {
+    "data": "19/11/2026",
+    "turno": "Matutino",
+    "municipio": "PINHALZINHO",
+    "escola": "ESCOLA MUNICIPAL DE ENSINO FUNDAMENTAL DOM JOSE GOMES",
+    "turma": "2º ANO 01 - MATUTINO",
+    "aplicador": "ANA TASCA",
+    "supervisor": "IVANETE"
+  },
+  {
+    "data": "19/11/2026",
+    "turno": "Matutino",
+    "municipio": "PINHALZINHO",
+    "escola": "ESCOLA MUNICIPAL DE ENSINO FUNDAMENTAL DOM JOSE GOMES",
+    "turma": "6º ANO 01 - MATUTINO",
+    "aplicador": "IVANE",
+    "supervisor": "IVANETE"
+  },
+  {
+    "data": "19/11/2026",
+    "turno": "Vespertino",
+    "municipio": "PINHALZINHO",
+    "escola": "ESCOLA MUNICIPAL DE ENSINO FUNDAMENTAL DOM JOSE GOMES",
+    "turma": "2º ANO 02 - VESPERTINO",
+    "aplicador": "ANA TASCA",
+    "supervisor": "IVANETE"
+  },
+  {
+    "data": "19/11/2026",
+    "turno": "Vespertino",
+    "municipio": "PINHALZINHO",
+    "escola": "ESCOLA MUNICIPAL DE ENSINO FUNDAMENTAL DOM JOSE GOMES",
+    "turma": "4º ANO 02 - VESPERTINO",
+    "aplicador": "VERA",
+    "supervisor": "IVANETE"
+  },
+  {
+    "data": "19/11/2026",
+    "turno": "Matutino",
+    "municipio": "ROMELÂNDIA",
+    "escola": "ESCOLA MUN MILENA SCHAFER",
+    "turma": "201 MAT",
+    "aplicador": "IVETE",
+    "supervisor": "TATIANE"
+  },
+  {
+    "data": "19/11/2026",
+    "turno": "Vespertino",
+    "municipio": "ROMELÂNDIA",
+    "escola": "ESCOLA MUN MILENA SCHAFER",
+    "turma": "202 VESP",
+    "aplicador": "IVETE",
+    "supervisor": "TATIANE"
+  },
+  {
+    "data": "19/11/2026",
+    "turno": "Matutino",
+    "municipio": "SALTINHO",
+    "escola": "EEB EMILIA BOOS LAUS SCHMIDT",
+    "turma": "601 MAT",
+    "aplicador": "DANIEL",
+    "supervisor": "TATIANE"
+  },
+  {
+    "data": "19/11/2026",
+    "turno": "Matutino",
+    "municipio": "SALTINHO",
+    "escola": "EEB EMILIA BOOS LAUS SCHMIDT",
+    "turma": "801 MAT",
+    "aplicador": "INEZ",
+    "supervisor": "TATIANE"
+  },
+  {
+    "data": "19/11/2026",
+    "turno": "Noturno",
+    "municipio": "SALTINHO",
+    "escola": "EEB EMILIA BOOS LAUS SCHMIDT",
+    "turma": "202 NOT",
+    "aplicador": "JANE",
+    "supervisor": "TATIANE"
+  },
+  {
+    "data": "19/11/2026",
+    "turno": "Vespertino",
+    "municipio": "SALTINHO",
+    "escola": "EEB EMILIA BOOS LAUS SCHMIDT",
+    "turma": "201 VESP",
+    "aplicador": "JANE (EXTR: MARCIA GRAEFF)",
+    "supervisor": "TATIANE"
+  },
+  {
+    "data": "19/11/2026",
+    "turno": "Vespertino",
+    "municipio": "SALTINHO",
+    "escola": "EEB EMILIA BOOS LAUS SCHMIDT",
+    "turma": "602 VESP",
+    "aplicador": "DANIEL",
+    "supervisor": "TATIANE"
+  },
+  {
+    "data": "19/11/2026",
+    "turno": "Vespertino",
+    "municipio": "SALTINHO",
+    "escola": "EEB EMILIA BOOS LAUS SCHMIDT",
+    "turma": "802 VESP",
+    "aplicador": "INEZ",
+    "supervisor": "TATIANE"
+  },
+  {
+    "data": "19/11/2026",
+    "turno": "Matutino",
+    "municipio": "SALTINHO",
+    "escola": "NUCLEO ESC MUN SALTINHO",
+    "turma": "201 MAT",
+    "aplicador": "ALENAIR + (EXTRA: SIRLEIA)",
+    "supervisor": "TAUANA"
+  },
+  {
+    "data": "19/11/2026",
+    "turno": "Vespertino",
+    "municipio": "SALTINHO",
+    "escola": "NUCLEO ESC MUN SALTINHO",
+    "turma": "202 VESP",
+    "aplicador": "ALENAIR",
+    "supervisor": "TAUANA"
+  },
+  {
+    "data": "19/11/2026",
+    "turno": "Matutino",
+    "municipio": "SAUDADES",
+    "escola": "EEB RODOLFO FOSS",
+    "turma": "201 EM MAT",
+    "aplicador": "LIZETE",
+    "supervisor": "SANDRA CARVALHO"
+  },
+  {
+    "data": "19/11/2026",
+    "turno": "Matutino",
+    "municipio": "SAUDADES",
+    "escola": "EEB RODOLFO FOSS",
+    "turma": "801 MAT",
+    "aplicador": "PAULA FELISIAK",
+    "supervisor": "SANDRA CARVALHO"
+  },
+  {
+    "data": "19/11/2026",
+    "turno": "Vespertino",
+    "municipio": "SAUDADES",
+    "escola": "EEB RODOLFO FOSS",
+    "turma": "201 EF VESP",
+    "aplicador": "LIZETE (EXTRA: FELIPE)",
+    "supervisor": "SANDRA CARVALHO"
+  },
+  {
+    "data": "19/11/2026",
+    "turno": "Vespertino",
+    "municipio": "SAUDADES",
+    "escola": "EEB RODOLFO FOSS",
+    "turma": "601 VESP",
+    "aplicador": "PAULA FELISIAK",
+    "supervisor": "SANDRA CARVALHO"
+  }
+]
